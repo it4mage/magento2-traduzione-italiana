@@ -1,0 +1,30 @@
+{
+    "name": "antoniocarboni/magento2-traduzione-italiana",
+    "description": " Magento2 Italian Language Pack (it_IT) ",
+    "homepage": "https://github.com/antoniocarboni/magento2-traduzione-italiana",
+    "version": "100.0.4",
+    "license": [
+        "OSL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "Antonio Carboni",
+            "homepage": "https://github.com/antoniocarboni"
+        },
+        {
+            "name": "Magento2 traduzione italiana ",
+            "homepage": "https://crowdin.com/project/magento-2"
+        }
+    ],
+    "require": {
+        "magento/framework": "100.0.*"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
+
+ 

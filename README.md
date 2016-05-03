@@ -9,9 +9,24 @@ This is a Italian Localization Pack generated from [crowdin official Magento2 tr
 # Installation
 ## Via composer
 To install this translation with composer you need to have [Composer](https://getcomposer.org) installed.
+
+Update the composer.json file:
+```
+“require”: {
+	...
+	“antoniocarboni/magento2-traduzione-italiana”:"dev-master”
+},
+
+ "repositories": [
+    { "type": "vcs", "url":  "https://github.com/antoniocarboni/magento2-traduzione-italiana" }
+    ],
+    
+```
+and via SSH:
+
 ```
 cd <magento2 path>
-composer require antoniocarboni/magento2-traduzione-italiana:dev-master
+composer update
 bin/magento setup:static-content:deploy it_IT
 bin/magento cache:clean
 ```
@@ -41,12 +56,27 @@ Questa è la traduzione italiana ufficiale generata dal [progetto di traduzione 
 # Installazione
 ## tramite composer
 Per installare Magento2 tramite composer è necessario avere lo stesso [Composer](https://getcomposer.org) installato e funzionante.
+Aggiorna il tuo file composer.json:
+```
+“require”: {
+	...
+	“antoniocarboni/magento2-traduzione-italiana”:"dev-master”
+},
+
+ "repositories": [
+    { "type": "vcs", "url":  "https://github.com/antoniocarboni/magento2-traduzione-italiana" }
+    ],
+    
+```
+e tramite riga di comando:
+
 ```
 cd <magento2 path>
-composer require antoniocarboni/magento2-traduzione-italiana:dev-master
+composer update
 bin/magento setup:static-content:deploy it_IT
 bin/magento cache:clean
 ```
+
 
 ## Manualmente
 * Scaricate la repository a [questo link](https://github.com/antoniocarboni/magento2-traduzione-italiana).

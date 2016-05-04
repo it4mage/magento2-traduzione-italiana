@@ -32,8 +32,10 @@ bin/magento cache:clean
 ```
 
 ## Manually
-* Download the repository [here](https://github.com/antoniocarboni/magento2-traduzione-italiana).
-* Upload the contents to `<your magento path>/app/i18n/antoniocarboni/it_it`.
+* Download the translations from crowdin:
+https://crowdin.com/project/magento-2
+* and paste it in Magento root
+* Download the files package from this repository and copy in app/i18n/antoniocarboni/it_It/.
 
 
 
@@ -79,8 +81,10 @@ bin/magento cache:clean
 
 
 ## Manualmente
-* Scaricate la repository a [questo link](https://github.com/antoniocarboni/magento2-traduzione-italiana).
-* Caricate il contenuto su `<magento2 path>/app/i18n/antoniocarboni/it_it`.
+* Scarica la traduzione da caricandola da crowdin indirizzo:
+https://crowdin.com/project/magento-2
+* Scarica l’intera traduzione e copiala nella root di Magento.
+* Scarica il pacchetto di registrazione della traduzione da questo repository e posizionalo in app/i18n/antoniocarboni/it_It/.
 
 
 

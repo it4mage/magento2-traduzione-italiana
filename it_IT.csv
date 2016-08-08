@@ -722,7 +722,7 @@ JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
 "JavaScript/CSS Cache","Cache JavaScript/CSS",module,Magento_Backend
 "Add after","Aggiungi dopo",module,Magento_Backend
 "Current Configuration Scope:","Ambito di configurazione corrente:",module,Magento_Backend
-"Personal Information","Informationi personali",module,Magento_Backend
+"Personal Information","Informazioni personali",module,Magento_Backend
 "No records found.","Nessun record trovato.",module,Magento_Backend
 "Select Category","Seleziona una categoria",module,Magento_Backend
 Images,Immagini,module,Magento_Backend
@@ -3018,7 +3018,7 @@ Submit,Invia,module,Magento_Customer
 "IP Address","IP Address",module,Magento_Customer
 Order,Ordine,module,Magento_Customer
 "Customer View","Vista Cliente",module,Magento_Customer
-"Personal Information","Informationi personali",module,Magento_Customer
+"Personal Information","Informazioni personali",module,Magento_Customer
 View,Mostra,module,Magento_Customer
 "* Required Fields","* Campi obbligatori",module,Magento_Customer
 Day,Day,module,Magento_Customer
@@ -3477,7 +3477,7 @@ Yes,Sì,module,Magento_CustomerCustomAttributes
 "Save and Continue Edit","Salva e continua modifica",module,Magento_CustomerCustomAttributes
 "Store View","Vista Negozio",module,Magento_CustomerCustomAttributes
 System,Sistema,module,Magento_CustomerCustomAttributes
-"Personal Information","Informationi personali",module,Magento_CustomerCustomAttributes
+"Personal Information","Informazioni personali",module,Magento_CustomerCustomAttributes
 "Use Default Value","Usa il valore predefinito",module,Magento_CustomerCustomAttributes
 "Input Type","Tipo di input",module,Magento_CustomerCustomAttributes
 "* Required Fields","* Campi obbligatori",module,Magento_CustomerCustomAttributes
@@ -10377,7 +10377,7 @@ Message,Messaggio,module,Magento_Wishlist
 "The requested wish list doesn't exist.","The requested wish list doesn't exist.",module,Magento_Wishlist
 "Wish List could not be created.","Wish List could not be created.",module,Magento_Wishlist
 "We can't specify a product.","Non è possibile specificare un prodotto.",module,Magento_Wishlist
-"%1 has been added to your wishlist. Click <a href=""%2"">here</a> to continue shopping.","%1 has been added to your wishlist. Click <a href=""%2"">here</a> to continue shopping.",module,Magento_Wishlist
+"%1 has been added to your wishlist. Click <a href=""%2"">here</a> to continue shopping.","%1 è stato aggiunto nella tua lista desideri. Clicca <a href=""%2""> qui</a> per continuare lo shopping.",module,Magento_Wishlist
 "An error occurred while adding item to wish list: %1","An error occurred while adding item to wish list: %1",module,Magento_Wishlist
 "An error occurred while adding item to wish list.","An error occurred while adding item to wish list.",module,Magento_Wishlist
 "We can't load the wish list item.","We can't load the wish list item.",module,Magento_Wishlist

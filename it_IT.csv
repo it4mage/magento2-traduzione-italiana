@@ -1012,109 +1012,6 @@ Amount,Amount,module,Magento_Braintree
 "Refund Ids","Refund Ids",module,Magento_Braintree
 "Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
 Currency,Currency,module,Magento_Braintree
-Country,Paese,module,Magento_BraintreeTwo
-"Allowed Credit Card Types","Tipi di carta di credito validi",module,Magento_BraintreeTwo
-"Add Rule","Aggiungi regola",module,Magento_BraintreeTwo
-"Braintree Settlement Report","Braintree Settlement Report",module,Magento_BraintreeTwo
-"Sorry, but something went wrong","Siamo spiacenti, ma qualcosa è andato storto",module,Magento_BraintreeTwo
-"We can\'t initialize checkout.","Non è possibile inizializzare il checkout.",module,Magento_BraintreeTwo
-"No authorization transaction to proceed capture.","Nessuna autorizzazione di transazione per procedere alla cattura.",module,Magento_BraintreeTwo
-"Braintree error response.","Risposta di errore di Braintree.",module,Magento_BraintreeTwo
-"Payment method nonce can\'t be retrieved.","Il metodo di pagamento non può essere recuperato.",module,Magento_BraintreeTwo
-"Wrong transaction status","Status di transazione errato",module,Magento_BraintreeTwo
-Authorize,Autorizza,module,Magento_BraintreeTwo
-"Authorize and Capture","Autorizza e trattieni",module,Magento_BraintreeTwo
-"--Please Select--",--Seleziona--,module,Magento_BraintreeTwo
-"Please agree to all the terms and conditions before placing the order.","Si prega di accettare tutti i termini e le condizioni prima di effettuare l'ordine.",module,Magento_BraintreeTwo
-"Paypal account","Account Paypal",module,Magento_BraintreeTwo
-"Coinbase account","Coinbase account",module,Magento_BraintreeTwo
-"Europe bank account","Europe bank account",module,Magento_BraintreeTwo
-"Credit card","Carta di credito",module,Magento_BraintreeTwo
-"Apple pay card","paycard  Apple",module,Magento_BraintreeTwo
-"Android pay card","Pay card Android",module,Magento_BraintreeTwo
-"Authorization expired","Autorizzazione scaduta",module,Magento_BraintreeTwo
-Authorizing,Autorizzazione,module,Magento_BraintreeTwo
-Authorized,Autorizzato,module,Magento_BraintreeTwo
-"Gateway rejected","Gateway rifiutato",module,Magento_BraintreeTwo
-Failed,Fallito,module,Magento_BraintreeTwo
-"Processor declined","Processor declined",module,Magento_BraintreeTwo
-Settled,Settled,module,Magento_BraintreeTwo
-Settling,Settling,module,Magento_BraintreeTwo
-"Submitted for settlement","Submitted for settlement",module,Magento_BraintreeTwo
-Voided,Annullato,module,Magento_BraintreeTwo
-Unrecognized,"Non riconosciuto",module,Magento_BraintreeTwo
-"Settlement declined","Settlement declined",module,Magento_BraintreeTwo
-"Settlement pending","Settlement pending",module,Magento_BraintreeTwo
-"Settlement confirmed","Settlement confirmed",module,Magento_BraintreeTwo
-Sale,Vendita,module,Magento_BraintreeTwo
-Credit,Credito,module,Magento_BraintreeTwo
-"Credit Card Type","Tipo di carta di credito",module,Magento_BraintreeTwo
-"Credit Card Number","Numero carta di credito",module,Magento_BraintreeTwo
-"Please, enter valid Credit Card Number","Per favore inserisci un numero di carta di credito valido",module,Magento_BraintreeTwo
-"Expiration Date","Data di scadenza",module,Magento_BraintreeTwo
-"Please, enter valid Expiration Date","Per favore inserisci una data di scadenza valida",module,Magento_BraintreeTwo
-"Card Verification Number","Numero di verifica della carta",module,Magento_BraintreeTwo
-"Please, enter valid Card Verification Number","Per favore inserire un numero di verifica valido (CVN)",module,Magento_BraintreeTwo
-ending,fine,module,Magento_BraintreeTwo
-expires,scadenza,module,Magento_BraintreeTwo
-"Credit Card Information","Informazioni carta di credito",module,Magento_BraintreeTwo
-"What is this?","Cos'è questo?",module,Magento_BraintreeTwo
-"Save for later use.","Salva per un uso successivo.",module,Magento_BraintreeTwo
-"Place Order","Effettua Ordine",module,Magento_BraintreeTwo
-"This payment is not available","Questo pagamento non è disponibile",module,Magento_BraintreeTwo
-MM,MM,module,Magento_BraintreeTwo
-YY,AA,module,Magento_BraintreeTwo
-"Please try again with another form of payment.","Si prega di riprovare con un\'altra forma di pagamento.",module,Magento_BraintreeTwo
-"Sorry, but something went wrong.","Siamo spiacenti, ma qualcosa non ha funzionato.",module,Magento_BraintreeTwo
-BraintreeTwo,BraintreeTwo,module,Magento_BraintreeTwo
-&nbsp;,&nbsp;,module,Magento_BraintreeTwo
-"Enable this Solution","Abilita questa soluzione",module,Magento_BraintreeTwo
-"Enable PayPal through Braintree","Abilita PayPal attraverso Braintree",module,Magento_BraintreeTwo
-"Basic BraintreeTwo Settings","Impostazioni base di BraintreeTwo",module,Magento_BraintreeTwo
-Title,Titolo,module,Magento_BraintreeTwo
-Environment,Ambiente,module,Magento_BraintreeTwo
-"Payment Action","Azione di pagamento",module,Magento_BraintreeTwo
-"Merchant ID","ID Venditore",module,Magento_BraintreeTwo
-"Public Key","Chiave pubblica",module,Magento_BraintreeTwo
-"Private Key","Chiave privata",module,Magento_BraintreeTwo
-"Advanced Braintree Settings","Impostazioni avanzate Braintree",module,Magento_BraintreeTwo
-"Merchant Account ID","ID Account Venditore",module,Magento_BraintreeTwo
-"Advanced Fraud Protection","Protezione avanzata anti-frode",module,Magento_BraintreeTwo
-"Kount Merchant ID","Kount Merchant ID",module,Magento_BraintreeTwo
-Debug,Debug,module,Magento_BraintreeTwo
-"CVV Verification","Verifica CVV",module,Magento_BraintreeTwo
-"Credit Card Types","Tipi di carta di credito",module,Magento_BraintreeTwo
-"Sort Order",Ordinamento,module,Magento_BraintreeTwo
-"Country Specific Settings","Impostazioni specifiche paese",module,Magento_BraintreeTwo
-"Payment from Applicable Countries","Pagamento dai paesi applicabili",module,Magento_BraintreeTwo
-"Payment from Specific Countries","Pagamento da Paesi specifici",module,Magento_BraintreeTwo
-"Country Specific Credit Card Types","Tipi di carta di credito specifiche per paese",module,Magento_BraintreeTwo
-"PayPal through Braintree","PayPal attraverso Braintree",module,Magento_BraintreeTwo
-"Override Merchant Name","Sovrascrivi nome venditore",module,Magento_BraintreeTwo
-"Require Customer's Billing Address","Richiede l'indirizzo di fatturazione del cliente",module,Magento_BraintreeTwo
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Consente di modificare l'indirizzo di spedizione inserito durante il checkout lato PayPal",module,Magento_BraintreeTwo
-"Display on Shopping Cart","Mostra nel carrello",module,Magento_BraintreeTwo
-"3D Secure Verification Settings","Impostazioni di verifica 3D Secure",module,Magento_BraintreeTwo
-"3D Secure Verification","Verifica 3D Secure",module,Magento_BraintreeTwo
-"Threshold Amount","Importo soglia",module,Magento_BraintreeTwo
-"Verify for Applicable Countries","Verifica per paesi applicabili",module,Magento_BraintreeTwo
-"Verify for Specific Countries","Verifica per determinati paesi",module,Magento_BraintreeTwo
-"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Applicare filtri al fine di ottenere risultati. Verranno visualizzati solo primi 100 record nella griglia, sarai in grado di scaricare la versione completa del report in formato. csv.",module,Magento_BraintreeTwo
-Select...,Seleziona...,module,Magento_BraintreeTwo
-Status,Status,module,Magento_BraintreeTwo
-"Transaction Type","Tipo di Transazione",module,Magento_BraintreeTwo
-"PayPal Payment ID","ID pagamento PayPal",module,Magento_BraintreeTwo
-"Transaction ID","ID Transazione",module,Magento_BraintreeTwo
-"Order ID","ID ordine",module,Magento_BraintreeTwo
-"Payment Type","Modalità di pagamento",module,Magento_BraintreeTwo
-Type,Tipo,module,Magento_BraintreeTwo
-"Created At","Creato il",module,Magento_BraintreeTwo
-Amount,Importo,module,Magento_BraintreeTwo
-"Settlement Code","Settlement Code",module,Magento_BraintreeTwo
-"Settlement Response Text","Settlement Response Text",module,Magento_BraintreeTwo
-"Refund Ids","Id di rimborso",module,Magento_BraintreeTwo
-"Settlement Batch ID","Settlement Batch ID",module,Magento_BraintreeTwo
-Currency,Valuta,module,Magento_BraintreeTwo
 "Percent Discount","Percentuale sconto",module,Magento_Bundle
 "-- Select --","-- Seleziona --",module,Magento_Bundle
 Dynamic,Dinamico,module,Magento_Bundle
@@ -2185,8 +2082,8 @@ Enable,Attiva,module,Magento_CatalogPermissions
 "<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.","<strong style=""color:red"">Attenzione!</strong> Di default questa funzionalità limita tutte le categorie.",module,Magento_CatalogPermissions
 "Allow Browsing Category","Consenti la navigazione per categoria",module,Magento_CatalogPermissions
 "Customer Groups","Gruppi cliente",module,Magento_CatalogPermissions
-"Allow Adding to Cart","Consentire l'aggiunta al carrello",module,Magento_CatalogPermissions
 "Landing Page","Landing Page",module,Magento_CatalogPermissions
+"Allow Adding to Cart","Consentire l'aggiunta al carrello",module,Magento_CatalogPermissions
 "Disallow Catalog Search By","Non consentire la ricerca nel catalogo per",module,Magento_CatalogPermissions
 "Catalog Category Permissions","Permessi categoria catalogo",module,Magento_CatalogPermissions
 "Indexed permissions for categories","Permessi indicizzati per categorie",module,Magento_CatalogPermissions
@@ -5974,9 +5871,9 @@ Group,Gruppo,module,Magento_Invitation
 "Discard Rate","Rifiuta tasso",module,Magento_Invitation
 "Accepted and Purchased","Accettato e acquistato",module,Magento_Invitation
 "Conversion Rate","Tasso di conversione",module,Magento_Invitation
+No,No,module,Magento_LayeredNavigation
 "Filterable (with results)","Filtrabile (con risultati)",module,Magento_LayeredNavigation
 "Filterable (no results)","Filtrabile (nessun risultato)",module,Magento_LayeredNavigation
-No,No,module,Magento_LayeredNavigation
 "Use in Layered Navigation","Usa nella navigazione a livelli",module,Magento_LayeredNavigation
 "Can be used only with catalog input type Dropdown, Multiple Select and Price","Può essere utilizzato solo con il tipo di input catalogo menu a tendina, selezione multipla e prezzo",module,Magento_LayeredNavigation
 "Can be used only with catalog input type Dropdown, Multiple Select and Price.","Può essere utilizzato solo con il tipo di input catalogo Menu a tendina, Selezione multipla e Prezzo.",module,Magento_LayeredNavigation
@@ -6192,38 +6089,6 @@ Price,Prezzo,module,Magento_Msrp
 "Display Actual Price","Mostra il prezzo attuale",module,Magento_Msrp
 "Default Popup Text Message","Messaggio predefinito del testo nel Popup",module,Magento_Msrp
 "Default ""What's This"" Text Message","Messaggio di testo predefinito per ""Cos'è questo""",module,Magento_Msrp
-Back,Indietro,module,Magento_MultipleLocationInventory
-"Save Warehouse","Salvare il magazzino",module,Magento_MultipleLocationInventory
-"Disable Warehouse","Disabilita il magazzino",module,Magento_MultipleLocationInventory
-"Enable Warehouse","Abilitare il magazzino",module,Magento_MultipleLocationInventory
-Warehouse,Magazzino,module,Magento_MultipleLocationInventory
-"New Warehouse","Nuovo magazzino",module,Magento_MultipleLocationInventory
-"Manage Warehouse","Gestisci magazzino",module,Magento_MultipleLocationInventory
-"Please correct the data sent.","Si prega di correggere i dati inviati.",module,Magento_MultipleLocationInventory
-"Please select a user","Selezionare un utente",module,Magento_MultipleLocationInventory
-"Requested warehouse doesn't exist","Requested warehouse doesn't exist",module,Magento_MultipleLocationInventory
-"Test error message","Messaggio di errore di prova",module,Magento_MultipleLocationInventory
-Edit,Modifica,module,Magento_MultipleLocationInventory
-"Multiple Location Inventory","Inventario su locazioni multiple",module,Magento_MultipleLocationInventory
-"Change status of warehouse","Modificare lo stato del magazzino",module,Magento_MultipleLocationInventory
-"Edit warehouse","Modificare il magazzino",module,Magento_MultipleLocationInventory
-"Manage Warehouses","Gestisci magazzino",module,Magento_MultipleLocationInventory
-"Warehouse Information","Informazioni magazzino",module,Magento_MultipleLocationInventory
-"Use default address","Utilizzare l'indirizzo predefinito",module,Magento_MultipleLocationInventory
-"Street Address",Indirizzo,module,Magento_MultipleLocationInventory
-"Add New Warehouse","Aggiungi un nuovo magazzino",module,Magento_MultipleLocationInventory
-ID,ID,module,Magento_MultipleLocationInventory
-Name,Nome,module,Magento_MultipleLocationInventory
-"Contact Name",Nome,module,Magento_MultipleLocationInventory
-Email,Email,module,Magento_MultipleLocationInventory
-Country,Paese,module,Magento_MultipleLocationInventory
-State/Province,Stato/Provincia,module,Magento_MultipleLocationInventory
-City,Città,module,Magento_MultipleLocationInventory
-Street,Via,module,Magento_MultipleLocationInventory
-ZIP,CAP,module,Magento_MultipleLocationInventory
-Status,Status,module,Magento_MultipleLocationInventory
-Phone,Telefono,module,Magento_MultipleLocationInventory
-Fax,Fax,module,Magento_MultipleLocationInventory
 Wishlist,"Lista desideri",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Report lista desideri del cliente",module,Magento_MultipleWishlist
 "My Wish Lists","Liste desideri",module,Magento_MultipleWishlist
@@ -9928,7 +9793,7 @@ View/Edit,Visualizza/modifica,module,Magento_Search
 CSV,CSV,module,Magento_Search
 "Excel XML","Excel XML",module,Magento_Search
 ID,ID,module,Magento_Search
-Hits,Risultati,module,Magento_Search
+Hits,Utilizzi,module,Magento_Search
 "Are you sure?","Sei sicuro?",module,Magento_Search
 "Suggested Terms","Termini suggeriti",module,Magento_Search
 yes,sì,module,Magento_Search

@@ -1984,8 +1984,8 @@ save,save,module,Magento_Catalog
 "Remove Product","Rimuovere il prodotto",module,Magento_Catalog
 "Add to Wishlist","Add to Wishlist",module,Magento_Catalog
 "You have no items to compare.","Non ci sono articoli da confrontare.",module,Magento_Catalog
-"Are you sure you would like to remove this item from the compare products?","Are you sure you would like to remove this item from the compare products?",module,Magento_Catalog
-"Are you sure you would like to remove all products from your comparison?","Are you sure you would like to remove all products from your comparison?",module,Magento_Catalog
+"Are you sure you would like to remove this item from the compare products?","Sei sicuro di voler rimuovere questo elemento dal confronto?",module,Magento_Catalog
+"Are you sure you would like to remove all products from your comparison?","Sei sicuro di voler rimuovere tutti i prodotti dal tuo confronto?",module,Magento_Catalog
 "Remove This Item","Rimuovi questo articolo",module,Magento_Catalog
 Compare,Confronta,module,Magento_Catalog
 "Clear All","Cancella tutto",module,Magento_Catalog
@@ -2528,8 +2528,8 @@ State/Province,Stato/Provincia,module,Magento_Checkout
 "Checkout Method","Checkout Method",module,Magento_Checkout
 "Payment Information","Informazioni di pagamento",module,Magento_Checkout
 "Order Review","Order Review",module,Magento_Checkout
-"Shipping Information","Shipping Information",module,Magento_Checkout
-"Shipping Method","Shipping Method",module,Magento_Checkout
+"Shipping Information","Informazioni di spedizione",module,Magento_Checkout
+"Shipping Method","Metodo di Spedizione",module,Magento_Checkout
 "Minimum order amount is %1","L'importo minimo d'ordine è %1",module,Magento_Checkout
 "We cannot add this item to your shopping cart","Non è possibile aggiungere l'articolo al carrello",module,Magento_Checkout
 "We can't find the quote item.","Non è possibile trovare l'elemento del preventivo.",module,Magento_Checkout
@@ -2582,7 +2582,7 @@ Checkout,Checkout,module,Magento_Checkout
 "Order total will be displayed before you submit the order","Order total will be displayed before you submit the order",module,Magento_Checkout
 "Cart Subtotal","Subtotale carrello",module,Magento_Checkout
 "View cart","View cart",module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Sei sicuro di voler rimuovere questo elemento dal carrello?",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Clicca <a href=""%1"">qui</a> per continuare lo shopping.",module,Magento_Checkout
 "Estimate Shipping and Tax","Stima spedizione e tasse",module,Magento_Checkout
 "Enter your destination to get a shipping estimate.","Enter your destination to get a shipping estimate.",module,Magento_Checkout
@@ -2597,7 +2597,7 @@ Total:,Totale:,module,Magento_Checkout
 "Edit item","Edit item",module,Magento_Checkout
 "You will see the order total before you submit the order.","You will see the order total before you submit the order.",module,Magento_Checkout
 "Loading next step...","Loading next step...",module,Magento_Checkout
-"Select a billing address from your address book or enter a new address.","Select a billing address from your address book or enter a new address.",module,Magento_Checkout
+"Select a billing address from your address book or enter a new address.","Seleziona un indirizzo di fatturazione dalla rubrica oppure inserisci un nuovo indirizzo.",module,Magento_Checkout
 "Email Address","Indirizzo email",module,Magento_Checkout
 Company,Company,module,Magento_Checkout
 "VAT Number","VAT Number",module,Magento_Checkout
@@ -2637,7 +2637,7 @@ Register,Register,module,Magento_Checkout
 "Forgot an Item?","Hai dimenticato un oggetto?",module,Magento_Checkout
 "Edit Your Cart","Modifica il tuo carrello",module,Magento_Checkout
 "Your credit card will be charged for","Your credit card will be charged for",module,Magento_Checkout
-"Select a shipping address from your address book or enter a new address.","Select a shipping address from your address book or enter a new address.",module,Magento_Checkout
+"Select a shipping address from your address book or enter a new address.","Seleziona un indirizzo di spedizione dalla rubrica oppure inserisci un nuovo indirizzo.",module,Magento_Checkout
 "Use Billing Address","Use Billing Address",module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time.","Sorry, no quotes are available for this order at this time.",module,Magento_Checkout
 "Thank you for your purchase!","Grazie per il tuo acquisto!",module,Magento_Checkout
@@ -3171,7 +3171,7 @@ Visitor,Visitatore,module,Magento_Customer
 "A problem was encountered trying to change password.","A problem was encountered trying to change password.",module,Magento_Customer
 "Confirm your new password","Confirm your new password",module,Magento_Customer
 "Invalid input","Input non valido",module,Magento_Customer
-"The account information has been saved.","The account information has been saved.",module,Magento_Customer
+"The account information has been saved.","Le informazioni sono state salvate.",module,Magento_Customer
 "The address has been saved.","The address has been saved.",module,Magento_Customer
 "Cannot save address.","Cannot save address.",module,Magento_Customer
 "The address has been deleted.","The address has been deleted.",module,Magento_Customer
@@ -3287,7 +3287,7 @@ Newsletters,Newsletter,module,Magento_Customer
 "Change Shipping Address","Cambia Indirizzo di spedizione",module,Magento_Customer
 "You have no default shipping address in your address book.","Non hai nessun indirizzo di spedizione predefinito nella tua rubrica.",module,Magento_Customer
 "Additional Address Entries","Voci indirizzo aggiuntivi",module,Magento_Customer
-"You have no additional address entries in your address book.","You have no additional address entries in your address book.",module,Magento_Customer
+"You have no additional address entries in your address book.","Non hai ulteriori indirizzi nella tua rubrica.",module,Magento_Customer
 "Use as my default billing address","Usa come indirizzo di fatturazione predefinito",module,Magento_Customer
 "Use as my default shipping address","Usa come indirizzo di spedizione predefinito",module,Magento_Customer
 "Save Address","Salva indirizzo",module,Magento_Customer
@@ -3503,7 +3503,7 @@ State/Province,Stato/Provincia,module,Magento_CustomerCustomAttributes
 City,Città,module,Magento_CustomerCustomAttributes
 "Zip/Postal Code",CAP,module,Magento_CustomerCustomAttributes
 "Loading next step...","Loading next step...",module,Magento_CustomerCustomAttributes
-"Select a billing address from your address book or enter a new address.","Select a billing address from your address book or enter a new address.",module,Magento_CustomerCustomAttributes
+"Select a billing address from your address book or enter a new address.","Seleziona un indirizzo di fatturazione dalla rubrica oppure inserisci un nuovo indirizzo.",module,Magento_CustomerCustomAttributes
 "Email Address","Email Address",module,Magento_CustomerCustomAttributes
 Company,Società,module,Magento_CustomerCustomAttributes
 "VAT Number","Partita Iva",module,Magento_CustomerCustomAttributes
@@ -3514,11 +3514,11 @@ Telephone,Telephone,module,Magento_CustomerCustomAttributes
 Fax,Fax,module,Magento_CustomerCustomAttributes
 Password,Password,module,Magento_CustomerCustomAttributes
 "Confirm Password","Conferma password",module,Magento_CustomerCustomAttributes
-"Save in address book","Save in address book",module,Magento_CustomerCustomAttributes
+"Save in address book","Salva nella rubrica",module,Magento_CustomerCustomAttributes
 "Ship to this address","Ship to this address",module,Magento_CustomerCustomAttributes
 "Ship to different address","Ship to different address",module,Magento_CustomerCustomAttributes
 Continue,Continue,module,Magento_CustomerCustomAttributes
-"Select a shipping address from your address book or enter a new address.","Select a shipping address from your address book or enter a new address.",module,Magento_CustomerCustomAttributes
+"Select a shipping address from your address book or enter a new address.","Seleziona un indirizzo di spedizione dalla rubrica oppure inserisci un nuovo indirizzo.",module,Magento_CustomerCustomAttributes
 "Use Billing Address","Use Billing Address",module,Magento_CustomerCustomAttributes
 Label,Etichetta,module,Magento_CustomerCustomAttributes
 "Contact Information","Informazioni di Contatto",module,Magento_CustomerCustomAttributes
@@ -4210,7 +4210,7 @@ Region/State,Provincia,module,Magento_Email
 "Load default template","Carica template predefinito",module,Magento_Email
 Template,Template,module,Magento_Email
 "Are you sure that you want to strip tags?","Are you sure that you want to strip tags?",module,Magento_Email
-"Are you sure that you want to delete this template?","Are you sure that you want to delete this template?",module,Magento_Email
+"Are you sure that you want to delete this template?","Sei sicuro di voler eliminare questo template?",module,Magento_Email
 "Failed to load template. See error log for details.","Failed to load template. See error log for details.",module,Magento_Email
 "Email Preview","Anteprima email",module,Magento_Email
 "No Templates Found","Nessun template trovato",module,Magento_Email
@@ -4705,8 +4705,8 @@ Recipient,Recipient,module,Magento_GiftRegistry
 "Custom Types","Tipi personalizzati",module,Magento_GiftRegistry
 "Static Types","Tipi statici",module,Magento_GiftRegistry
 "You need to enter sender data.","È necessario immettere i dati del mittente.",module,Magento_GiftRegistry
-"Please enter a valid sender email address.","Please enter a valid sender email address.",module,Magento_GiftRegistry
-"Please enter a valid recipient email address.","Please enter a valid recipient email address.",module,Magento_GiftRegistry
+"Please enter a valid sender email address.","Inserisci un indirizzo email di mittente valido.",module,Magento_GiftRegistry
+"Please enter a valid recipient email address.","Inserisci un indirizzo email destinatario valido.",module,Magento_GiftRegistry
 "Please enter a recipient name.","Please enter a recipient name.",module,Magento_GiftRegistry
 "You shared the gift registry for %1 emails.","Hai condiviso la lista regalo su %1 email.",module,Magento_GiftRegistry
 "We couldn't share the registry.","Non è possibile condividere la lista.",module,Magento_GiftRegistry
@@ -5446,8 +5446,8 @@ Search,Cerca,module,Magento_MultipleWishlist
 "All Websites","Tutti i Website",module,Magento_MultipleWishlist
 View,Mostra,module,Magento_MultipleWishlist
 Actions,Azioni,module,Magento_MultipleWishlist
-"1 item","1 item",module,Magento_MultipleWishlist
-"%1 items","%1 items",module,Magento_MultipleWishlist
+"1 item","1 elemento",module,Magento_MultipleWishlist
+"%1 items","%1 elementi",module,Magento_MultipleWishlist
 Comment,Commento,module,Magento_MultipleWishlist
 Wishlist,"Lista desideri",module,Magento_MultipleWishlist
 Reports,Reports,module,Magento_MultipleWishlist
@@ -5464,7 +5464,7 @@ Owner,Proprietario,module,Magento_MultipleWishlist
 "Search Options","Opzioni di ricerca",module,Magento_MultipleWishlist
 "Search Results","Risultati Ricerca",module,Magento_MultipleWishlist
 "Your search returned no results.","La ricerca non ha prodotto risultati.",module,Magento_MultipleWishlist
-Go,Go,module,Magento_MultipleWishlist
+Go,Vai,module,Magento_MultipleWishlist
 "Search By","Cerca per",module,Magento_MultipleWishlist
 "Please enter at least two letters.","Inserisci almeno due lettere.",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Report lista desideri del cliente",module,Magento_MultipleWishlist
@@ -5473,49 +5473,49 @@ Go,Go,module,Magento_MultipleWishlist
 "%1's Wish List (%2)","Lista desideri di %1 (%2)",module,Magento_MultipleWishlist
 "Wish List Search","Cerca nella lista desideri",module,Magento_MultipleWishlist
 "Customer Wish List Report","Report lista desideri cliente",module,Magento_MultipleWishlist
-"Wish List ""%1"" was saved.","Wish List ""%1"" was saved.",module,Magento_MultipleWishlist
-"Something went wrong creating the wish list.","Something went wrong creating the wish list.",module,Magento_MultipleWishlist
-"Log in to edit wish lists.","Log in to edit wish lists.",module,Magento_MultipleWishlist
-"Provide wish list name","Provide wish list name",module,Magento_MultipleWishlist
-"The wish list is not assigned to your account and cannot be edited.","The wish list is not assigned to your account and cannot be edited.",module,Magento_MultipleWishlist
-"Only %1 wish lists can be created.","Only %1 wish lists can be created.",module,Magento_MultipleWishlist
-"The default wish list cannot be deleted.","The default wish list cannot be deleted.",module,Magento_MultipleWishlist
-"Wish list ""%1"" has been deleted.","Wish list ""%1"" has been deleted.",module,Magento_MultipleWishlist
-"Something went wrong deleting the wish list.","Something went wrong deleting the wish list.",module,Magento_MultipleWishlist
+"Wish List ""%1"" was saved.","La lista desideri ""%1"" è stata salvata.",module,Magento_MultipleWishlist
+"Something went wrong creating the wish list.","Errore durante la creazione della lista desideri.",module,Magento_MultipleWishlist
+"Log in to edit wish lists.","Accedi per modificare le liste desideri.",module,Magento_MultipleWishlist
+"Provide wish list name","Inserisci il nome della lista desideri",module,Magento_MultipleWishlist
+"The wish list is not assigned to your account and cannot be edited.","La lista desideri non è assegnata al tuo account e non può essere modificata.",module,Magento_MultipleWishlist
+"Only %1 wish lists can be created.","Puoi creare solo %1 liste desideri.",module,Magento_MultipleWishlist
+"The default wish list cannot be deleted.","La lista desideri predefinita non può essere eliminata.",module,Magento_MultipleWishlist
+"Wish list ""%1"" has been deleted.","La lista desideri ""%1"" è stata eliminata.",module,Magento_MultipleWishlist
+"Something went wrong deleting the wish list.","Errore durante l'eliminazione della lista desideri.",module,Magento_MultipleWishlist
 """%1"" was copied to %2.","""%1"" è stato copiato in %2.",module,Magento_MultipleWishlist
-"The item was not found.","The item was not found.",module,Magento_MultipleWishlist
+"The item was not found.","L'elemento non è stato trovato.",module,Magento_MultipleWishlist
 """%1"" is already present in %2.","""%1"" è già presente in %2.",module,Magento_MultipleWishlist
-"We could not copy ""%1"".","We could not copy ""%1"".",module,Magento_MultipleWishlist
-"We could not copy the wish list item.","We could not copy the wish list item.",module,Magento_MultipleWishlist
-"%1 items were not found.","%1 items were not found.",module,Magento_MultipleWishlist
-"We could not copy %1 items.","We could not copy %1 items.",module,Magento_MultipleWishlist
+"We could not copy ""%1"".","Impossibile copiare ""%1"".",module,Magento_MultipleWishlist
+"We could not copy the wish list item.","Impossibile copiare l'elemento della lista desideri.",module,Magento_MultipleWishlist
+"%1 items were not found.","%1 elementi non sono stati trovati.",module,Magento_MultipleWishlist
+"We could not copy %1 items.","Non è stato possibile copiare %1 elementi.",module,Magento_MultipleWishlist
 "%1 items are already present in %2: %3.","gli elementi %1 sono già presenti in %2: %3.",module,Magento_MultipleWishlist
 "%1 items were copied to %2: %3.","gli elementi %1 sono stati copiati in %2: %3.",module,Magento_MultipleWishlist
 """%1"" was moved to %2.","""%1"" è stato spostato in %2.",module,Magento_MultipleWishlist
-"An item with this ID doesn't exist.","An item with this ID doesn't exist.",module,Magento_MultipleWishlist
+"An item with this ID doesn't exist.","Non esiste un elemento con questo ID.",module,Magento_MultipleWishlist
 "We cannot move ""%1"".","Impossibile muovere ""%1"".",module,Magento_MultipleWishlist
-"We could not move the wish list item.","We could not move the wish list item.",module,Magento_MultipleWishlist
+"We could not move the wish list item.","Impossibile spostare l'elemento della lista desideri.",module,Magento_MultipleWishlist
 "%1 items cannot be moved: %2.","gli elementi %1 non possono essere spostati: %2.",module,Magento_MultipleWishlist
-"We could not move %1 items.","We could not move %1 items.",module,Magento_MultipleWishlist
+"We could not move %1 items.","Non è stato possibile spostare %1 elementi.",module,Magento_MultipleWishlist
 "%1 items were moved to %2: %3.","gli elementi %1 sono stati spostati in %2: %3.",module,Magento_MultipleWishlist
-"Please specify correct search options.","Please specify correct search options.",module,Magento_MultipleWishlist
+"Please specify correct search options.","Specifica opzioni di ricerca corrette.",module,Magento_MultipleWishlist
 "We could not perform the search.","Non è possibile eseguire la ricerca.",module,Magento_MultipleWishlist
 "%1 for ""%2""","%1 per ""%2""",module,Magento_MultipleWishlist
-"We could not add the item to shopping cart.","We could not add the item to shopping cart.",module,Magento_MultipleWishlist
-"Cannot add the following product(s) to shopping cart: %1.","Cannot add the following product(s) to shopping cart: %1.",module,Magento_MultipleWishlist
+"We could not add the item to shopping cart.","Impossibile aggiungere l'elemento al carrello.",module,Magento_MultipleWishlist
+"Cannot add the following product(s) to shopping cart: %1.","Impossibile aggiungere al carrello i seguenti prodotti: %1.",module,Magento_MultipleWishlist
 "Product(s) %1 have required options. Each product can only be added individually.","I prodotti %1 hanno delle opzioni obbligatorie. Ogni prodotto può essere aggiunto solo individualmente.",module,Magento_MultipleWishlist
 "%1 product(s) have been added to shopping cart: %2.","%1 prodotti sono stati aggiunti al carrello: %2.",module,Magento_MultipleWishlist
-"Wish List Owner Name Search","Wish List Owner Name Search",module,Magento_MultipleWishlist
-"Wish List Owner Email Search","Wish List Owner Email Search",module,Magento_MultipleWishlist
-"Please input a valid email address.","Please input a valid email address.",module,Magento_MultipleWishlist
+"Wish List Owner Name Search","Ricerca per Nome del Proprietario della Lista Desideri",module,Magento_MultipleWishlist
+"Wish List Owner Email Search","Ricerca per Indirizzo Email del Proprietario della Lista Desideri",module,Magento_MultipleWishlist
+"Please input a valid email address.","Inserisci un indirizzo email valido.",module,Magento_MultipleWishlist
 "All Wish Lists","Tutte le liste desideri",module,Magento_MultipleWishlist
 "Add To Order","Aggiungere all'ordine",module,Magento_MultipleWishlist
 "Configure and Add to Order","Configura e aggiungi all'ordine",module,Magento_MultipleWishlist
 "No items","Nessun elemento",module,Magento_MultipleWishlist
 "Delete Wish List","Eliminare la lista desideri",module,Magento_MultipleWishlist
-"Delete Wishlist","Delete Wishlist",module,Magento_MultipleWishlist
-"RSS Feed","RSS Feed",module,Magento_MultipleWishlist
-"Updated at","Updated at",module,Magento_MultipleWishlist
+"Delete Wishlist","Elimina Lista Desideri",module,Magento_MultipleWishlist
+"RSS Feed","Feed RSS",module,Magento_MultipleWishlist
+"Updated at","Aggiornata il",module,Magento_MultipleWishlist
 "Wish List Items","Elementi lista desideri",module,Magento_MultipleWishlist
 "You must select items to add to the cart.","È necessario selezionare gli elementi da aggiungere al carrello.",module,Magento_MultipleWishlist
 "Add to Wish List","Aggiungi alla lista desideri",module,Magento_MultipleWishlist
@@ -5525,33 +5525,33 @@ Go,Go,module,Magento_MultipleWishlist
 "Copy to Wish List","Copia alla lista desideri",module,Magento_MultipleWishlist
 "Owner Email","Email del proprietario",module,Magento_MultipleWishlist
 "Wish List Name","Nome lista desideri",module,Magento_MultipleWishlist
-"This wishlist is publicly visible.","This wishlist is publicly visible.",module,Magento_MultipleWishlist
-"This wishlist is private. Only you can view this wishlist.","This wishlist is private. Only you can view this wishlist.",module,Magento_MultipleWishlist
+"This wishlist is publicly visible.","Questa lista desideri è visibile pubblicamente.",module,Magento_MultipleWishlist
+"This wishlist is private. Only you can view this wishlist.","Questa lista desideri è privata. Solo tu la puoi vedere.",module,Magento_MultipleWishlist
 "Edit Wish List","Modifica la lista desideri",module,Magento_MultipleWishlist
-"Wish List:","Wish List:",module,Magento_MultipleWishlist
+"Wish List:","Lista Desideri:",module,Magento_MultipleWishlist
 Added,Aggiunto,module,Magento_MultipleWishlist
 CSV,CSV,module,Magento_MultipleWishlist
 "Excel XML","Excel XML",module,Magento_MultipleWishlist
-"Error happened while creating wishlist. Please try again later","Error happened while creating wishlist. Please try again later",module,Magento_MultipleWishlist
-"You must select items to move","You must select items to move",module,Magento_MultipleWishlist
-"You must select items to copy","You must select items to copy",module,Magento_MultipleWishlist
-"You are about to delete your wish list. This action cannot be undone. Are you sure you want to continue?","You are about to delete your wish list. This action cannot be undone. Are you sure you want to continue?",module,Magento_MultipleWishlist
-"Make This Wish List Public","Make This Wish List Public",module,Magento_MultipleWishlist
+"Error happened while creating wishlist. Please try again later","Errore durante la creazione della lista desideri. Riprova più tardi",module,Magento_MultipleWishlist
+"You must select items to move","È necessario selezionare gli elementi da spostare",module,Magento_MultipleWishlist
+"You must select items to copy","È necessario selezionare gli elementi da copiare",module,Magento_MultipleWishlist
+"You are about to delete your wish list. This action cannot be undone. Are you sure you want to continue?","Stai per eliminare la tua lista desideri. Questa operazione è irreversibile. Sei sicuro di voler procedere?",module,Magento_MultipleWishlist
+"Make This Wish List Public","Rendi pubblica questa lista desideri",module,Magento_MultipleWishlist
 "Quick Search Form Types","Tipi di modulo di ricerca rapida",module,Magento_MultipleWishlist
 "Enable Multiple Wish Lists","Abilita Liste desideri multiple",module,Magento_MultipleWishlist
 "Number of Multiple Wish Lists","Numero di liste desideri multiple",module,Magento_MultipleWishlist
-"Note: The number of multiple wishlists should be equal to or more than 2.","Note: The number of multiple wishlists should be equal to or more than 2.",module,Magento_MultipleWishlist
+"Note: The number of multiple wishlists should be equal to or more than 2.","Il numero di liste desideri multiple deve essere pari o maggiore di 2.",module,Magento_MultipleWishlist
 "My Wish Lists Link","Liste desideri",module,Magento_MultipleWishlist
 "Display Wish Lists Summary","Mostra riepilogo liste desideri",module,Magento_MultipleWishlist
-"Wishlist Search","Wishlist Search",module,Magento_MultipleWishlist
+"Wishlist Search","Cerca nella lista desideri",module,Magento_MultipleWishlist
 "Wish List Search Description","Descrizione ricerca lista desideri",module,Magento_MultipleWishlist
 "Wish List Search Template","Template ricerca lista desideri",module,Magento_MultipleWishlist
 "Wish List Quantity","Quantità lista desideri",module,Magento_MultipleWishlist
 "Store Quantity","Quantità negozio",module,Magento_MultipleWishlist
 "Surplus / Deficit","Avanzo / disavanzo",module,Magento_MultipleWishlist
-"Wish List Info","Wish List Info",module,Magento_MultipleWishlist
+"Wish List Info","Dettaglio Lista Desideri",module,Magento_MultipleWishlist
 "Product Info","Info prodotto",module,Magento_MultipleWishlist
-"Wanted Qty","Wanted Qty",module,Magento_MultipleWishlist
+"Wanted Qty","Qtà desiderata",module,Magento_MultipleWishlist
 Product,Prodotto,module,Magento_Multishipping
 Price,Prezzo,module,Magento_Multishipping
 Qty,Qtà,module,Magento_Multishipping
@@ -5592,7 +5592,7 @@ Change,Modifica,module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","La qtà massima consentita per la spedizione a indirizzi multipli è %1",module,Magento_Multishipping
 "Please select shipping methods for all addresses.","Selezionare i metodi di spedizione per tutti gli indirizzi.",module,Magento_Multishipping
 "Payment method is not defined","Payment method is not defined",module,Magento_Multishipping
-"The requested Payment Method is not available for multishipping.","The requested Payment Method is not available for multishipping.",module,Magento_Multishipping
+"The requested Payment Method is not available for multishipping.","Il metodo di pagamento richiesto non è disponibile per il multishipping.",module,Magento_Multishipping
 "Item not found or already ordered","Articolo non trovato o già ordinato",module,Magento_Multishipping
 "Please specify a payment method.","Specificare un metodo di pagamento.",module,Magento_Multishipping
 "Please check shipping addresses information.","Controllare le informazioni dell'indirizzo di spedizione.",module,Magento_Multishipping
@@ -5608,7 +5608,7 @@ Change,Modifica,module,Magento_Multishipping
 "Please select a shipping address for applicable items.","Seleziona un indirizzo di spedizione per gli elementi applicabili.",module,Magento_Multishipping
 "Enter a New Address","Inserisci un nuovo indirizzo",module,Magento_Multishipping
 "Send To","Invia a",module,Magento_Multishipping
-"Shipping selection is not applicable.","Shipping selection is not applicable.",module,Magento_Multishipping
+"Shipping selection is not applicable.","La spedizione non è applicabile.",module,Magento_Multishipping
 "Continue to Shipping Information","Continue to Shipping Information",module,Magento_Multishipping
 "Update Qty &amp; Addresses","Aggiornamento Qtà e indirizzi",module,Magento_Multishipping
 "Back to Shopping Cart","Torna al carrello",module,Magento_Multishipping
@@ -6985,7 +6985,7 @@ Statistics,Statistiche,module,Magento_Reports
 "Compared Products Images and Names Template","Template Nomi e immagini prodotti confrontati",module,Magento_Reports
 "Compared Product Names Only Template","Template solo nomi prodotti confrontati",module,Magento_Reports
 "Compared Product Images Only Template","Template solo immagini prodotti confrontati",module,Magento_Reports
-Hits,Hits,module,Magento_Reports
+Hits,Utilizzi,module,Magento_Reports
 "We couldn't find records for this period.","We couldn't find records for this period.",module,Magento_Reports
 "Stock Quantity","Quantità in inventario",module,Magento_Reports
 "Ordered Quantity","Quantità ordinata",module,Magento_Reports
@@ -9460,7 +9460,7 @@ Reauthorize,Reauthorize,module,Magento_Translation
 "Create New Wish List","Create New Wish List",module,Magento_Translation
 "Please enter a valid credit card verification number.","Please enter a valid credit card verification number.",module,Magento_Translation
 "Edit Order","Edit Order",module,Magento_Translation
-"Please specify a shipping method.","Please specify a shipping method.",module,Magento_Translation
+"Please specify a shipping method.","Specifica un metodo di spedizione.",module,Magento_Translation
 Complete,Complete,module,Magento_Translation
 "Upload Security Error","Upload Security Error",module,Magento_Translation
 "Upload HTTP Error","Upload HTTP Error",module,Magento_Translation
@@ -9480,16 +9480,16 @@ B,B,module,Magento_Translation
 "Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Translation
 "Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.",module,Magento_Translation
 "Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.",module,Magento_Translation
-"Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.",module,Magento_Translation
-"Please enter a valid email address. For example johndoe@domain.com.","Please enter a valid email address. For example johndoe@domain.com.",module,Magento_Translation
+"Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.","Inserisci un numero di fax valido. Ad esempio (123) 456-7890 o 123-456-7890.",module,Magento_Translation
+"Please enter a valid email address. For example johndoe@domain.com.","Inserisci un indirizzo email valido. Es: johndoe@dominio.",module,Magento_Translation
 "Please use only visible characters and spaces.","Please use only visible characters and spaces.",module,Magento_Translation
-"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.",module,Magento_Translation
+"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Inserisci 6 o più caratteri. Gli spazi iniziali o finali verranno ignorati.",module,Magento_Translation
 "Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.",module,Magento_Translation
-"Please enter a valid URL. Protocol is required (http://, https:// or ftp://)","Please enter a valid URL. Protocol is required (http://, https:// or ftp://)",module,Magento_Translation
-"Please enter a valid URL Key. For example ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"".","Please enter a valid URL Key. For example ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"".",module,Magento_Translation
-"Please enter a valid XML-identifier. For example something_1, block5, id-4.","Please enter a valid XML-identifier. For example something_1, block5, id-4.",module,Magento_Translation
-"Please enter a valid social security number. For example 123-45-6789.","Please enter a valid social security number. For example 123-45-6789.",module,Magento_Translation
-"Please enter a valid zip code. For example 90602 or 90602-1234.","Please enter a valid zip code. For example 90602 or 90602-1234.",module,Magento_Translation
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://)","Inserisci un URL valido. È necessario il protocollo (http://, https:// o ftp: //)",module,Magento_Translation
+"Please enter a valid URL Key. For example ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"".","Inserisci una URL key valida. Es: ""pagina-esempio"", ""pagina-esempio.html"" o ""altrolivello/pagina-esempio"".",module,Magento_Translation
+"Please enter a valid XML-identifier. For example something_1, block5, id-4.","Inserisci un identificatore XML valido. Es: something_1, block5, id-4.",module,Magento_Translation
+"Please enter a valid social security number. For example 123-45-6789.","Inserisci un numero di previdenza sociale valido (Ex: 123-45-6789).",module,Magento_Translation
+"Please enter a valid zip code. For example 90602 or 90602-1234.","Inserisci un Cap valido. Es: 09032.",module,Magento_Translation
 "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",module,Magento_Translation
 "Please select one of the above options.","Please select one of the above options.",module,Magento_Translation
 "Please select one of the options.","Please select one of the options.",module,Magento_Translation
@@ -9503,9 +9503,9 @@ B,B,module,Magento_Translation
 "Please select a file","Please select a file",module,Magento_Translation
 "Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",module,Magento_Translation
 "This date is a required value.","This date is a required value.",module,Magento_Translation
-"Please enter a valid day (1-%1).","Please enter a valid day (1-%1).",module,Magento_Translation
-"Please enter a valid month (1-12).","Please enter a valid month (1-12).",module,Magento_Translation
-"Please enter a valid year (1900-%1).","Please enter a valid year (1900-%1).",module,Magento_Translation
+"Please enter a valid day (1-%1).","Inserisci un giorno valido (1-%1).",module,Magento_Translation
+"Please enter a valid month (1-12).","Inserisci un mese valido (1-12).",module,Magento_Translation
+"Please enter a valid year (1900-%1).","Inserisci un anno valido (1900-%1).",module,Magento_Translation
 "Please enter a valid full date","Please enter a valid full date",module,Magento_Translation
 Done,Done,module,Magento_Translation
 "File extension not known or unsupported type.","File extension not known or unsupported type.",module,Magento_Translation
@@ -9556,7 +9556,7 @@ Translate,Translate,module,Magento_Translation
 "Please agree to all Terms and Conditions before placing the orders.","Please agree to all Terms and Conditions before placing the orders.",module,Magento_Translation
 "Please choose to register or to checkout as a guest","Please choose to register or to checkout as a guest",module,Magento_Translation
 "Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.",module,Magento_Translation
-"Please specify shipping method.","Please specify shipping method.",module,Magento_Translation
+"Please specify shipping method.","Seleziona un metodo di spedizione.",module,Magento_Translation
 "Your order cannot be completed at this time as there is no payment methods available for it.","Your order cannot be completed at this time as there is no payment methods available for it.",module,Magento_Translation
 Ok,Ok,module,Magento_Translation
 Translations,Traduzioni,module,Magento_Translation
@@ -9831,7 +9831,7 @@ Permissions,Permessi,module,Magento_User
 "Your password must include both numeric and alphabetic characters.","La password deve includere caratteri sia alfabetici che numerici.",module,Magento_User
 "Your password confirmation must match your password.","La conferma password deve corrispondere alla password.",module,Magento_User
 "You did not sign in correctly or your account is temporarily disabled.","Non hai eseguito l'accesso correttamente o il tuo account è temporaneamente disattivato.",module,Magento_User
-"Forgot your user name or password?","Forgot your user name or password?",module,Magento_User
+"Forgot your user name or password?","Hai dimenticato il tuo username o la password?",module,Magento_User
 "Retrieve Password","Recupera password",module,Magento_User
 "Forgot your password?","Hai dimenticato la password?",module,Magento_User
 "Roles Resources","Risorse ruoli",module,Magento_User
@@ -10416,7 +10416,7 @@ Message,Messaggio,module,Magento_Wishlist
 "Last Added Items","Ultimi elementi aggiunti",module,Magento_Wishlist
 "Go to Wish List","Vai alla lista desideri",module,Magento_Wishlist
 "You have no items in your wish list.","Non ci sono articoli nella lista desideri.",module,Magento_Wishlist
-"Are you sure you want to remove this product from your wishlist?","Are you sure you want to remove this product from your wishlist?",module,Magento_Wishlist
+"Are you sure you want to remove this product from your wishlist?","Sei sicuro di voler rimuovere questo prodotto dalla lista desideri?",module,Magento_Wishlist
 "Email Sender","Mittente email",module,Magento_Wishlist
 "General Options","Opzioni Generali",module,Magento_Wishlist
 "Share Options","Opzioni di condivisione",module,Magento_Wishlist

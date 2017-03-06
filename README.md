@@ -41,7 +41,7 @@ https://crowdin.com/project/magento-2
 
 # Contribute
 You can help to improve the translation suggesting or vote the translations :
-[https://crowdin.com/project/magento-2/it]#
+[https://crowdin.com/project/magento-2/it#]
 
 
 
@@ -90,7 +90,7 @@ https://crowdin.com/project/magento-2
 
 # Come Contribuire
 Per aiutarci a migliorare la traduzione o votare le stringhe già tradotte:
-[https://crowdin.com/project/magento-2/it]#
+[https://crowdin.com/project/magento-2/it#]
 
 
 

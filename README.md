@@ -20,7 +20,7 @@ Update the composer.json file:
  "repositories": [
     { "type": "vcs", "url":  "https://github.com/antoniocarboni/magento2-traduzione-italiana" }
     ],
-    
+     
 ```
 and via SSH:
 

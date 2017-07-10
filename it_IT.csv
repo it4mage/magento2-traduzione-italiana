@@ -12346,3 +12346,4 @@ Footer,Footer,theme,frontend/Magento/luma
 "Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
 "Account Information","Account Information",theme,frontend/Magento/luma
 "Address Book","Address Book",theme,frontend/Magento/luma
+"Are you sure you would like to remove this item from the shopping cart?","Sei sicuro di voler rimuovere questo prodotto dal carrello?",module,Magento_Checkout

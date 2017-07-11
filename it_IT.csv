@@ -1812,7 +1812,7 @@ Role,Ruolo,module,Magento_Catalog
 "Add to Cart","Aggiungi al Carrello",module,Magento_Catalog
 "In stock",Disponibile,module,Magento_Catalog
 "Out of stock","Non Disponibile",module,Magento_Catalog
-"Add to Wish List","Aggiungi alla lista desideri",module,Magento_Catalog
+"Add to Wish List","Lista dei desideri",module,Magento_Catalog
 "You have no items to compare.","Non ci sono articoli da confrontare.",module,Magento_Catalog
 "Remove This Item","Rimuovi questo articolo",module,Magento_Catalog
 Compare,Confronta,module,Magento_Catalog
@@ -1820,7 +1820,7 @@ Compare,Confronta,module,Magento_Catalog
 Prev,Prec,module,Magento_Catalog
 Next,Successivo,module,Magento_Catalog
 "We can't find products matching the selection.","Nessun prodotto corrispondete alla selezione è stato trovato.",module,Magento_Catalog
-"Add to Compare","Aggiungi al confronto",module,Magento_Catalog
+"Add to Compare","Confronta",module,Magento_Catalog
 "Learn More","Scopri di più",module,Magento_Catalog
 "We found other products you might like!","Abbiamo trovato altri prodotti che ti potrebbero interessare!",module,Magento_Catalog
 "More Choices:","Più scelte:",module,Magento_Catalog
@@ -2423,8 +2423,8 @@ SKU,SKU,module,Magento_CatalogWidget
 "Add to Cart","Aggiungi al Carrello",module,Magento_CatalogWidget
 "In stock",Disponibile,module,Magento_CatalogWidget
 "Out of stock","Non Disponibile",module,Magento_CatalogWidget
-"Add to Wish List","Aggiungi alla lista desideri",module,Magento_CatalogWidget
-"Add to Compare","Aggiungi al confronto",module,Magento_CatalogWidget
+"Add to Wish List","Lista dei desideri",module,Magento_CatalogWidget
+"Add to Compare","Confronta",module,Magento_CatalogWidget
 "Catalog Products List","Elenco prodotti catalogo",module,Magento_CatalogWidget
 "List of Products","Elenco di prodotti",module,Magento_CatalogWidget
 Title,Titolo,module,Magento_CatalogWidget
@@ -6353,7 +6353,7 @@ Comment,Commento,module,Magento_MultipleWishlist
 "All Websites","Tutti i Website",module,Magento_MultipleWishlist
 "Product Info","Info prodotto",module,Magento_MultipleWishlist
 "Unit Price","Prezzo unitario",module,Magento_MultipleWishlist
-"Add to Wish List","Aggiungi alla lista desideri",module,Magento_MultipleWishlist
+"Add to Wish List","Lista dei desideri",module,Magento_MultipleWishlist
 "Change Billing Address","Cambia indirizzo di fatturazione",module,Magento_Multishipping
 "Ship to Multiple Addresses","Spedisci a indirizzi diversi",module,Magento_Multishipping
 "Billing Information - %1","Informazioni di fatturazione - %1",module,Magento_Multishipping
@@ -7897,8 +7897,8 @@ Error,Errore,module,Magento_Reports
 "Add to Cart","Aggiungi al Carrello",module,Magento_Reports
 "In stock",Disponibile,module,Magento_Reports
 "Out of stock","Non Disponibile",module,Magento_Reports
-"Add to Wish List","Aggiungi alla lista desideri",module,Magento_Reports
-"Add to Compare","Aggiungi al confronto",module,Magento_Reports
+"Add to Wish List","Lista dei desideri",module,Magento_Reports
+"Add to Compare","Confronta",module,Magento_Reports
 "Recently Compared","Confrontati di recente",module,Magento_Reports
 "Learn More","Scopri di più",module,Magento_Reports
 Marketing,Marketing,module,Magento_Reports
@@ -12182,7 +12182,7 @@ Availability,Disponibilita',module,Magento_Wishlist
 Edit,Modifica,module,Magento_Wishlist
 "Remove Item","Rimuovi elemento",module,Magento_Wishlist
 "Remove item","Rimuovi il prodotto",module,Magento_Wishlist
-"Add to Compare","Aggiungi al confronto",module,Magento_Wishlist
+"Add to Compare","Confronta",module,Magento_Wishlist
 "This Wish List has no Items","La lista desideri non ha elementi",module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Wishlist
@@ -12191,7 +12191,7 @@ Edit,Modifica,module,Magento_Wishlist
 "RSS link to %1's wishlist","Link RSS alla lista desideri di %1",module,Magento_Wishlist
 "RSS Feed","Feed RSS",module,Magento_Wishlist
 Product,Prodotto,module,Magento_Wishlist
-"Add to Wish List","Aggiungi alla lista desideri",module,Magento_Wishlist
+"Add to Wish List","Lista dei desideri",module,Magento_Wishlist
 Back,Indietro,module,Magento_Wishlist
 "Wish List is empty now.","La lista desideri in questo momento è vuota.",module,Magento_Wishlist
 "* Required Fields","* Campi obbligatori",module,Magento_Wishlist

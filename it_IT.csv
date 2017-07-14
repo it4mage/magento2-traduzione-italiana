@@ -1497,8 +1497,8 @@ Products,Prodotti,module,Magento_Catalog
 "You cleared the comparison list.","Hai svuotato la lista per il confronto.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","Qualcosa è andata storta durante la cancellazione della lista per il confronto.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Hai rimosso il prodotto %1 dalla lista per il confronto.",module,Magento_Catalog
-"1 item","1 elemento",module,Magento_Catalog
-"%1 items","%1 elementi",module,Magento_Catalog
+"1 item","1 prodotto",module,Magento_Catalog
+"%1 items","%1 prodotti",module,Magento_Catalog
 "Invalid attribute %1","Attributo non valido %1",module,Magento_Catalog
 Grid,Griglia,module,Magento_Catalog
 List,Lista,module,Magento_Catalog
@@ -1827,8 +1827,8 @@ Next,Successivo,module,Magento_Catalog
 "Check items to add to the cart or","Controlla gli articoli da aggiungere al carrello oppure",module,Magento_Catalog
 "select all","seleziona tutto",module,Magento_Catalog
 "Items %1-%2 of %3","Articoli %1-%2 di %3",module,Magento_Catalog
-"%1 Item","%1 elemento",module,Magento_Catalog
-"%1 Items","%1 elementi",module,Magento_Catalog
+"%1 Item","%1 prodotto",module,Magento_Catalog
+"%1 Items","%1 prodotti",module,Magento_Catalog
 Show,Mostra,module,Magento_Catalog
 "per page","per pagina",module,Magento_Catalog
 "Sort By","Ordina per",module,Magento_Catalog
@@ -6227,8 +6227,8 @@ Fax,Fax,module,Magento_MultipleLocationInventory
 Wishlist,"Lista desideri",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Report lista desideri del cliente",module,Magento_MultipleWishlist
 "My Wish Lists","Liste desideri",module,Magento_MultipleWishlist
-"1 item in wish list","1 elemento nella lista desideri",module,Magento_MultipleWishlist
-"%1 items in wish list","%1 elementi nella lista desideri",module,Magento_MultipleWishlist
+"1 item in wish list","1 prodotto nella lista desideri",module,Magento_MultipleWishlist
+"%1 items in wish list","%1 prodotti nella lista desideri",module,Magento_MultipleWishlist
 "Wish List Search","Cerca nella lista desideri",module,Magento_MultipleWishlist
 "Select Search Type","Cerca tipo",module,Magento_MultipleWishlist
 Reports,Reports,module,Magento_MultipleWishlist
@@ -12141,8 +12141,8 @@ Conditions,Condizioni,module,Magento_Widget
 "We can't update your Wish List right now.","Non è possibile aggiornare la lista desideri in questo momento.",module,Magento_Wishlist
 "The requested Wish List doesn't exist.","La lista desideri richiesta non esiste.",module,Magento_Wishlist
 "We can't create the Wish List right now.","Non è possibile creare la lista desideri in questo momento.",module,Magento_Wishlist
-"%1 items","%1 elementi",module,Magento_Wishlist
-"1 item","1 elemento",module,Magento_Wishlist
+"%1 items","%1 prodotti",module,Magento_Wishlist
+"1 item","1 prodotto",module,Magento_Wishlist
 Comment,Commento,module,Magento_Wishlist
 "Display number of items in wish list","Mostra il numero di elementi nella lista desideri",module,Magento_Wishlist
 "Display item quantities","Mostra quantità articolo",module,Magento_Wishlist

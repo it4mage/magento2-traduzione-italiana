@@ -1826,7 +1826,7 @@ Next,Successivo,module,Magento_Catalog
 "More Choices:","Più scelte:",module,Magento_Catalog
 "Check items to add to the cart or","Controlla gli articoli da aggiungere al carrello oppure",module,Magento_Catalog
 "select all","seleziona tutto",module,Magento_Catalog
-"Items %1-%2 of %3","Articoli %1-%2 di %3",module,Magento_Catalog
+"Items %1-%2 of %3","%1-%2 prodotti di %3",module,Magento_Catalog
 "%1 Item","%1 prodotto",module,Magento_Catalog
 "%1 Items","%1 prodotti",module,Magento_Catalog
 Show,Mostra,module,Magento_Catalog

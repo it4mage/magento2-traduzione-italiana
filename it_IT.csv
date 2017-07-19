@@ -11235,7 +11235,7 @@ Keyword,"Parola chiave",module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Utilizza solo lettere (a-z o A-Z), numeri (0-9), spazi e ""#"" in questo campo.",module,Magento_Ui
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Inserisci un numero di telefono valido. Per esempio (123) 456-7890 o 123-456-7890.",module,Magento_Ui
 "Please enter a valid fax number (Ex: 123-456-7890).","Inserisci un numero di fax valido (Ex: 123-456-7890).",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com).","Inserisci un indirizzo email valido (Ex: johndoe@dominio.it).",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","Inserisci un indirizzo email valido (es: mariorossi@dominio.it).",module,Magento_Ui
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Inserisci 6 o più caratteri. Gli spazi iniziali o finali verranno ignorati.",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","Inserisci 7 o più caratteri, utilizzando sia caratteri numerici che alfabetici.",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Inserisci una URL valida. È necessario specificare il protocollo (http://, https:// o ftp://).",module,Magento_Ui
@@ -12349,3 +12349,5 @@ Footer,Footer,theme,frontend/Magento/luma
 "Are you sure you would like to remove this item from the shopping cart?","Sei sicuro di voler rimuovere questo prodotto dal carrello?",module,Magento_Checkout
 Cart,Carrello
 "<span>Add to </span>Cart","<span>Aggiungi al </span>carrello"
+"Read more","Leggi tutto"
+"Read less","Mostra meno"

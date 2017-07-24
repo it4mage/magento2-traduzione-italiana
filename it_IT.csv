@@ -2589,7 +2589,7 @@ Next,Successivo,module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Il CAP fornito sembra non essere valido.",module,Magento_Checkout
 Example:,Esempio:,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Se credi che sia quello giusto puoi ignorare questo avviso.",module,Magento_Checkout
-"Review & Payments","Recensione & pagamenti",module,Magento_Checkout
+"Review & Payments","Riepilogo & pagamenti",module,Magento_Checkout
 Shipping,Spedizione,module,Magento_Checkout
 "Save Address","Salva indirizzo",module,Magento_Checkout
 "Checkout Options","Opzioni checkout",module,Magento_Checkout

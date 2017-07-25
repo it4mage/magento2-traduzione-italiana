@@ -2508,7 +2508,7 @@ Item,Oggetto,module,Magento_Checkout
 Price,Prezzo,module,Magento_Checkout
 Qty,Qtà,module,Magento_Checkout
 Subtotal,Subtotale,module,Magento_Checkout
-"Continue Shopping","Continua gli Acquisti",module,Magento_Checkout
+"Continue Shopping","Continua gli acquisti",module,Magento_Checkout
 "Clear Shopping Cart","Svuota Carrello",module,Magento_Checkout
 "Update Shopping Cart","Aggiorna Carrello",module,Magento_Checkout
 "Update Cart","Aggiorna Carrello",module,Magento_Checkout
@@ -2518,13 +2518,13 @@ Subtotal,Subtotale,module,Magento_Checkout
 Edit,Modifica,module,Magento_Checkout
 "Remove item","Rimuovi il prodotto",module,Magento_Checkout
 "You have no items in your shopping cart.","Non ci sono articoli nel tuo carrello.",module,Magento_Checkout
-"Click <a href=""%1"">here</a> to continue shopping.","Clicca <a href=""%1"">qui</a> per continuare lo shopping.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Clicca <a href=""%1"">qui</a> per continuare gli acquisti.",module,Magento_Checkout
 "Estimate Tax","Tasse stimate",module,Magento_Checkout
 "Estimate Shipping and Tax","Stima spedizione e tasse",module,Magento_Checkout
 "Excl. Tax","Tasse escl.",module,Magento_Checkout
 Loading...,Caricamento...,module,Magento_Checkout
 "Order #","Ordine n.",module,Magento_Checkout
-"Proceed to Checkout","Procedi al Checkout",module,Magento_Checkout
+"Proceed to Checkout","Vai alla cassa",module,Magento_Checkout
 "Product Name","Nome prodotto",module,Magento_Checkout
 "Incl. Tax","Tasse incl.",module,Magento_Checkout
 "Your order number is: %1.","Il numero d'ordine è: %1.",module,Magento_Checkout
@@ -2557,7 +2557,7 @@ Login,Login,module,Magento_Checkout
 Close,Chiudi,module,Magento_Checkout
 item,elemento,module,Magento_Checkout
 items,elementi,module,Magento_Checkout
-"Go to Checkout","Vai al checkout",module,Magento_Checkout
+"Go to Checkout","Vai alla cassa",module,Magento_Checkout
 "Recently added item(s)","Articoli aggiunti di recente",module,Magento_Checkout
 "View and edit cart","Visualizza e modifica il carrello",module,Magento_Checkout
 "See Details","Vedi dettagli",module,Magento_Checkout
@@ -6432,7 +6432,7 @@ Items,Elementi,module,Magento_Multishipping
 "Thanks for your order. We'll email you order details and tracking information.","Grazie per il tuo acquisto. Ti invieremo una email con i dettagli dell'ordine e  le informazioni di tracciamento.",module,Magento_Multishipping
 "Your order numbers are:","I numeri d'ordine sono:",module,Magento_Multishipping
 "Your order number is:","Il numero d'ordine è:",module,Magento_Multishipping
-"Continue Shopping","Continua gli Acquisti",module,Magento_Multishipping
+"Continue Shopping","Continua gli acquisti",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","Non è possibile completare l'ordine perchè non hai un metodo di pagamento installato.",module,Magento_Multishipping
 "Please choose a payment method.","Si prega di scegliere un metodo di pagamento.",module,Magento_Multishipping
 "Multishipping Settings Section","Sezione Impostazioni Spedizioni Multiple",module,Magento_Multishipping
@@ -12171,8 +12171,8 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Are you sure you want to remove this item?","Sei sicuro di voler eliminare questo elemento?",module,Magento_Wishlist
 "Share Wish List","Condividi lista desideri",module,Magento_Wishlist
 "Add All to Cart","Aggiungi tutto al carrello",module,Magento_Wishlist
-"Update Wish List","Aggiorna lista desideri",module,Magento_Wishlist
-"Move to Wishlist","Sposta alla lista desideri",module,Magento_Wishlist
+"Update Wish List","Aggiorna lista dei desideri",module,Magento_Wishlist
+"Move to Wishlist","Sposta nella lista dei desideri",module,Magento_Wishlist
 "View Product","Visualizza prodotto",module,Magento_Wishlist
 Qty,Qtà,module,Magento_Wishlist
 "Add to Cart","Aggiungi al Carrello",module,Magento_Wishlist

@@ -92,5 +92,8 @@ https://crowdin.com/project/magento-2
 Per aiutarci a migliorare la traduzione o votare le stringhe già tradotte:
 [https://crowdin.com/project/magento-2/it]#
 
+## Note di compilazione
+1. Il language package non deve contenere traduzioni dipendenti dal contesto; per le frasi che si prevede possano essere diverse a seconda del tema o progetto utilizzeremo il dizionario del tema.
+Un esempio: "VAT number" non è stato tradotto in "P. IVA" perché alcuni progetti potrebbero richiederne la traduzione in "Partita Iva" oppure "Codice Fiscale o P. Iva".
 
 

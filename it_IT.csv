@@ -2551,7 +2551,7 @@ Update,Aggiorna,module,Magento_Checkout
 Cancel,Annulla,module,Magento_Checkout
 "Save in address book","Salva nella rubrica",module,Magento_Checkout
 "Estimated Total","Totale stimato",module,Magento_Checkout
-"You can create an account after checkout.","È possibile creare un account dopo il checkout.",module,Magento_Checkout
+"You can create an account after checkout.","Potrai creare un account dopo la conferma dell'ordine.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Hai già un account con noi. Accedi o continua come ospite.",module,Magento_Checkout
 Login,Login,module,Magento_Checkout
 Close,Chiudi,module,Magento_Checkout
@@ -3368,7 +3368,7 @@ Download,Scarica,module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","Se c'è un account associato con %1 riceverai un'email con il link per reimpostare la password.",module,Magento_Customer
 "My Account","Il mio Account",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Questo account non è confermato. <a href=""%1"">Clicca qui</a> per reinviare l'email di conferma.",module,Magento_Customer
-"Invalid login or password.","Login o Password non validi.",module,Magento_Customer
+"Invalid login or password.","Indirizzo email o password non validi.",module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.","Si è verificato un errore non specificato. Contattaci.",module,Magento_Customer
 "A login and a password are required.","Login e password sono obbligatori.",module,Magento_Customer
 "New Password and Confirm New Password values didn't match.","I valori della nuova password e della conferma della nuova password non corrispondono.",module,Magento_Customer
@@ -12352,3 +12352,5 @@ Cart,Carrello
 "Read more","Leggi tutto"
 "Read less","Mostra meno"
 "Returning customer","Cliente affezionato",module,Magento_Checkout
+"New customer","Nuovo cliente",module,Magento_Checkout
+"Go to payment and review","Vai al pagamento e riepilogo",module,Magento_Checkout

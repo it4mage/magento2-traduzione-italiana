@@ -282,7 +282,7 @@ void,nullo,module,Magento_Authorizenet
 "Card Code Response","Risposta codice carta",module,Magento_Authorizenet
 "CAVV Response","Risposta CAVV",module,Magento_Authorizenet
 "Fraud Filters","Filtri di frode",module,Magento_Authorizenet
-"Place Order","Effettua Ordine",module,Magento_Authorizenet
+"Place Order","Effettua l'ordine",module,Magento_Authorizenet
 "Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
 Enabled,Abilitato,module,Magento_Authorizenet
 "Payment Action","Azione di pagamento",module,Magento_Authorizenet
@@ -955,7 +955,7 @@ expires,expires,module,Magento_Braintree
 "Credit Card Information","Informazioni carta di credito",module,Magento_Braintree
 "What is this?","Cos'è questo?",module,Magento_Braintree
 "Save for later use.","Save for later use.",module,Magento_Braintree
-"Place Order","Effettua Ordine",module,Magento_Braintree
+"Place Order","Effettua l'ordine",module,Magento_Braintree
 "This payment is not available","This payment is not available",module,Magento_Braintree
 MM,MM,module,Magento_Braintree
 YY,YY,module,Magento_Braintree
@@ -1060,7 +1060,7 @@ expires,scadenza,module,Magento_BraintreeTwo
 "Credit Card Information","Informazioni carta di credito",module,Magento_BraintreeTwo
 "What is this?","Cos'è questo?",module,Magento_BraintreeTwo
 "Save for later use.","Salva per un uso successivo.",module,Magento_BraintreeTwo
-"Place Order","Effettua Ordine",module,Magento_BraintreeTwo
+"Place Order","Effettua l'ordine",module,Magento_BraintreeTwo
 "This payment is not available","Questo pagamento non è disponibile",module,Magento_BraintreeTwo
 MM,MM,module,Magento_BraintreeTwo
 YY,AA,module,Magento_BraintreeTwo
@@ -2546,14 +2546,14 @@ Total:,Totale:,module,Magento_Checkout
 "Email Address","Indirizzo email",module,Magento_Checkout
 Password,Password,module,Magento_Checkout
 "Forgot Your Password?","Hai dimenticato la password?",module,Magento_Checkout
-"My billing and shipping address are the same","Gli indirizzi di spedizione e di fatturazione coincidono",module,Magento_Checkout
+"My billing and shipping address are the same","L'indirizzo di fatturazione è uguale all'indirizzo di spedizione",module,Magento_Checkout
 Update,Aggiorna,module,Magento_Checkout
 Cancel,Annulla,module,Magento_Checkout
 "Save in address book","Salva nella rubrica",module,Magento_Checkout
 "Estimated Total","Totale stimato",module,Magento_Checkout
 "You can create an account after checkout.","Potrai creare un account dopo la conferma dell'ordine.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Hai già un account con noi. Accedi o continua come ospite.",module,Magento_Checkout
-Login,Login,module,Magento_Checkout
+Login,Accedi,module,Magento_Checkout
 Close,Chiudi,module,Magento_Checkout
 item,elemento,module,Magento_Checkout
 items,elementi,module,Magento_Checkout
@@ -2568,7 +2568,7 @@ Remove,Elimina,module,Magento_Checkout
 "Payment Information","Informazioni di pagamento",module,Magento_Checkout
 "No Payment method available.","Nessun metodo di pagamento disponibile.",module,Magento_Checkout
 "You can track your order status by creating an account.","Creando un account è possibile monitorare lo stato dell'ordine.",module,Magento_Checkout
-"Place Order","Effettua Ordine",module,Magento_Checkout
+"Place Order","Effettua l'ordine",module,Magento_Checkout
 "Forgot an Item?","Hai dimenticato un oggetto?",module,Magento_Checkout
 "Edit Your Cart","Modifica il tuo carrello",module,Magento_Checkout
 "Ship Here","Spedisci qui",module,Magento_Checkout
@@ -2612,7 +2612,7 @@ Shipping,Spedizione,module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Metodo Invio copia Email pagamento non riuscito",module,Magento_Checkout
 Summary,Summary,module,Magento_Checkout
 "Order Total","Totale ordine",module,Magento_Checkout
-"We'll send your order confirmation here.","Ti invieremo la conferma dell'ordine qui.",module,Magento_Checkout
+"We'll send your order confirmation here.","Ti invieremo la conferma dell'ordine a questo indirizzo email.",module,Magento_Checkout
 Payment,Pagamento,module,Magento_Checkout
 "Not yet calculated","Non ancora calcolato",module,Magento_Checkout
 "We received your order!","Abbiamo ricevuto il tuo ordine!",module,Magento_Checkout
@@ -3598,7 +3598,7 @@ Password,Password,module,Magento_Customer
 "Sign-in Information","Informazioni di accesso",module,Magento_Customer
 "Confirm Password","Conferma password",module,Magento_Customer
 "Create an Account","Crea un Account",module,Magento_Customer
-"Set a New Password","Imposta una nuova Password",module,Magento_Customer
+"Set a New Password","Imposta una nuova password",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","Ti sei disconnesso e verrai reindirizzato alla homepage entro 5 secondi.",module,Magento_Customer
 "New Customers","Nuovi Clienti",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La creazione di un account ha molti vantaggi: check-out veloce, salvare più di un indirizzo, tenere traccia degli ordini e altro ancora.",module,Magento_Customer
@@ -4172,7 +4172,7 @@ Decision,Decisione,module,Magento_Cybersource
 "Authorize Only","Authorize Only",module,Magento_Cybersource
 "Risk Factor Q","Fattore di rischio Q",module,Magento_Cybersource
 "Risk Factor V","Fattore di rischio V",module,Magento_Cybersource
-"Place Order","Effettua Ordine",module,Magento_Cybersource
+"Place Order","Effettua l'ordine",module,Magento_Cybersource
 Cybersource,Cybersource,module,Magento_Cybersource
 Enabled,Abilitato,module,Magento_Cybersource
 "Payment Action","Azione di pagamento",module,Magento_Cybersource
@@ -6074,7 +6074,7 @@ Flush,Pulisci,module,Magento_Logging
 Fetch,Fetch,module,Magento_Logging
 "Update Payment","Aggiorna pagamento",module,Magento_Logging
 "Update State","Aggiorna Stato",module,Magento_Logging
-Login,Login,module,Magento_Logging
+Login,Accedi,module,Magento_Logging
 Send,Invio,module,Magento_Logging
 Create,Crea,module,Magento_Logging
 "Catalog Products","Catalogo prodotti",module,Magento_Logging
@@ -6383,7 +6383,7 @@ Total,Totale,module,Magento_Multishipping
 "Select Addresses","Seleziona gli indirizzi",module,Magento_Multishipping
 "Shipping Information","Informazioni di spedizione",module,Magento_Multishipping
 "Billing Information","Informazioni di fatturazione",module,Magento_Multishipping
-"Place Order","Effettua Ordine",module,Magento_Multishipping
+"Place Order","Effettua l'ordine",module,Magento_Multishipping
 "Order Success","Ordine riuscito",module,Magento_Multishipping
 "Default Billing","Fatturazione predefinita",module,Magento_Multishipping
 "Default Shipping","Spedizione predefinita",module,Magento_Multishipping
@@ -6431,7 +6431,7 @@ Items,Elementi,module,Magento_Multishipping
 "Thank you for your purchase!","Grazie per il tuo acquisto!",module,Magento_Multishipping
 "Thanks for your order. We'll email you order details and tracking information.","Grazie per il tuo acquisto. Ti invieremo una email con i dettagli dell'ordine e  le informazioni di tracciamento.",module,Magento_Multishipping
 "Your order numbers are:","I numeri d'ordine sono:",module,Magento_Multishipping
-"Your order number is:","Il numero d'ordine è:",module,Magento_Multishipping
+"Your order number is:","Il tuo numero d'ordine è:",module,Magento_Multishipping
 "Continue Shopping","Continua gli acquisti",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","Non è possibile completare l'ordine perchè non hai un metodo di pagamento installato.",module,Magento_Multishipping
 "Please choose a payment method.","Si prega di scegliere un metodo di pagamento.",module,Magento_Multishipping
@@ -6632,7 +6632,7 @@ Store,Negozio,module,Magento_Newsletter
 "Purchase Order Number: %1","Numero dell'ordine di acquisto: %1",module,Magento_OfflinePayments
 "Make Check payable to","Fare assegno intestato a",module,Magento_OfflinePayments
 "Send Check to","Inviare assegno a",module,Magento_OfflinePayments
-"Place Order","Effettua Ordine",module,Magento_OfflinePayments
+"Place Order","Effettua l'ordine",module,Magento_OfflinePayments
 "Check / Money Order",Vaglia,module,Magento_OfflinePayments
 Enabled,Abilitato,module,Magento_OfflinePayments
 "New Order Status","Nuovo status ordine",module,Magento_OfflinePayments
@@ -6771,7 +6771,7 @@ No,No,module,Magento_Payment
 "Card Verification Number Visual Reference","Scheda Verifica numero riferimento visivo",module,Magento_Payment
 "What is this?","Cos'è questo?",module,Magento_Payment
 "Credit Card Information","Informazioni carta di credito",module,Magento_Payment
-"Place Order","Effettua Ordine",module,Magento_Payment
+"Place Order","Effettua l'ordine",module,Magento_Payment
 "Forgot an Item?","Hai dimenticato un oggetto?",module,Magento_Payment
 "Edit Your Cart","Modifica il tuo carrello",module,Magento_Payment
 "Unable to place order. Please try again later.","Unable to place order. Please try again later.",module,Magento_Payment
@@ -7171,7 +7171,7 @@ Edit,Modifica,module,Magento_Paypal
 "Edit Payment Information","Modifica le informazioni di pagamento",module,Magento_Paypal
 "Items in Your Shopping Cart","Articoli nel tuo carrello",module,Magento_Paypal
 "Edit Shopping Cart","Modifica carrello",module,Magento_Paypal
-"Place Order","Effettua Ordine",module,Magento_Paypal
+"Place Order","Effettua l'ordine",module,Magento_Paypal
 "Submitting order information...","Invio nformazioni ordine...",module,Magento_Paypal
 Item,Oggetto,module,Magento_Paypal
 Price,Prezzo,module,Magento_Paypal
@@ -7565,7 +7565,7 @@ Subtotal,Subtotale,module,Magento_Quote
 "Please select a valid payment method.","Seleziona un metodo di pagamento valido.",module,Magento_Quote
 "Store Credit","Credito negozio",module,Magento_Quote
 Discount,Sconto,module,Magento_Quote
-Tax,Tassa,module,Magento_Quote
+Tax,Tasse,module,Magento_Quote
 "Cart contains virtual product(s) only. Shipping address is not applicable.","Il carrello contiene solo prodotti virtuali. L'indirizzo di spedizione non è applicabile.",module,Magento_Quote
 "Shipping address not set.","L'indirizzo di spedizione non è impostato.",module,Magento_Quote
 "Cannot set shipping method. %1","Non è possibile impostare il metodo di spedizione. %1",module,Magento_Quote
@@ -7805,7 +7805,7 @@ Invoiced,Fatturati,module,Magento_Reports
 Paid,Pagato,module,Magento_Reports
 Refunded,Rimborsati,module,Magento_Reports
 "Sales Tax","Imposta Vendite",module,Magento_Reports
-Tax,Tassa,module,Magento_Reports
+Tax,Tasse,module,Magento_Reports
 "Sales Shipping","Spedizione vendite",module,Magento_Reports
 Shipping,Spedizione,module,Magento_Reports
 Canceled,Cancellato,module,Magento_Reports
@@ -9052,7 +9052,7 @@ Number,Numero,module,Magento_Sales
 Products,Prodotti,module,Magento_Sales
 "Total (ex)","Totale (es)",module,Magento_Sales
 Qty,Qtà,module,Magento_Sales
-Tax,Tassa,module,Magento_Sales
+Tax,Tasse,module,Magento_Sales
 "Total (inc)","Totale (inc)",module,Magento_Sales
 "Credit Memo #","Nota di credito #",module,Magento_Sales
 "Invoice #","Fattura #",module,Magento_Sales
@@ -12354,3 +12354,10 @@ Cart,Carrello
 "Returning customer","Cliente affezionato",module,Magento_Checkout
 "New customer","Nuovo cliente",module,Magento_Checkout
 "Go to payment and review","Vai al pagamento e riepilogo",module,Magento_Checkout
+"Forgot Your Password","Password dimenticata",module,Magento_Customer
+"Select a Billing Address","Seleziona un indirizzo di fatturazione"
+"Save time on your next purchase","Risparmia tempo sul tuo prossimo acquisto",module,Magento_Checkout
+"Save your billing and shipping informations by creating your personal account, for a faster checkout process on your next purchase.","Salva i tuoi dati di fatturazione e spedizione e crea il tuo account personale, così che per il tuo prossimo ordine il processo di acquisto sia ancora più veloce.",module,Magento_Checkout
+"Your Email Address","Il tuo indirizzo email"
+"Thank you for choosing to create an account with us.","Grazie per aver scelto di creare un account con noi."
+"Further instructions on the creation of your account will be sent to your email address","Abbiamo inviato una email di istruzioni per la creazione del tuo account al tuo indirizzo email"

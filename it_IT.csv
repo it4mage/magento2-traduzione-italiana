@@ -3243,7 +3243,7 @@ Email,Email,module,Magento_CustomAttributeManagement
 "You don't subscribe to our newsletter.","Non sei iscritto alla nostra newsletter.",module,Magento_Customer
 "You have not set a default shipping address.","Non hai impostato un indirizzo di spedizione predefinito.",module,Magento_Customer
 "You have not set a default billing address.","Non hai impostato un indirizzo di fatturazione predefinito.",module,Magento_Customer
-"Address Book",Rubrica,module,Magento_Customer
+"Address Book","Rubrica indirizzi",module,Magento_Customer
 "Edit Address","Modifica l'indirizzo",module,Magento_Customer
 "Add New Address","Aggiungi nuovo indirizzo",module,Magento_Customer
 region,regione,module,Magento_Customer
@@ -3357,7 +3357,7 @@ Download,Scarica,module,Magento_Customer
 "Please make sure your passwords match.","Assicurati che le password corrispondano.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Se sei un cliente registrato con P.IVA, fai click <a href=""%1"">qui</a> per inserire il tuo indirizzo di spedizione per il calcolo corretto delle tasse.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Se sei un cliente registrato con P.IVA, fai click <a href=""%1"">qui</a> per inserire il tuo indirizzo di fatturazione per il calcolo corretto delle tasse.",module,Magento_Customer
-"Account Information","Informazioni sull'account",module,Magento_Customer
+"Account Information","Informazioni account",module,Magento_Customer
 "You saved the account information.","Hai salvato le informazioni sull'account.",module,Magento_Customer
 "The account is locked. Please wait and try again or contact %1.","L'account è bloccato. Si prega di attendere e riprovare oppure contattare %1.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
@@ -3521,7 +3521,7 @@ Visitor,Visitatore,module,Magento_Customer
 Customer,Cliente,module,Magento_Customer
 "No item specified.","Nessun elemento specificato.",module,Magento_Customer
 "Are you sure you want to remove this item?","Sei sicuro di voler eliminare questo elemento?",module,Magento_Customer
-"Personal Information","Informationi personali",module,Magento_Customer
+"Personal Information","Informazioni personali",module,Magento_Customer
 "Last Logged In:","Ultimo accesso:",module,Magento_Customer
 "Last Logged In (%1):","Ultimo accesso in (%1):",module,Magento_Customer
 "Account Lock:","Blocco dell'account:",module,Magento_Customer
@@ -3539,10 +3539,10 @@ Store,Negozio,module,Magento_Customer
 "Average Sale","Vendita media",module,Magento_Customer
 "All Store Views","Tutte le Viste Negozio",module,Magento_Customer
 Change,Modifica,module,Magento_Customer
-"Manage Addresses","Gestisci Indirizzi",module,Magento_Customer
+"Manage Addresses","Gestisci indirizzi",module,Magento_Customer
 "Default Shipping Address","Indirizzo di spedizione predefinito",module,Magento_Customer
-"Contact Information","Informazioni di Contatto",module,Magento_Customer
-"Change Password","Cambia Password",module,Magento_Customer
+"Contact Information","Informazioni di contatto",module,Magento_Customer
+"Change Password","Cambia password",module,Magento_Customer
 Newsletters,Newsletter,module,Magento_Customer
 "You subscribe to ""General Subscription"".","Ti sei iscritto all""abbonamento generale"".",module,Magento_Customer
 or,o,module,Magento_Customer
@@ -3749,10 +3749,10 @@ Type,Tipo,module,Magento_Customer
 "Send Welcome Email From","Invia Email di benvenuto da",module,Magento_Customer
 Addresses,Indirizzi,module,Magento_Customer
 "Are you sure you want to delete this item?","Sei sicuro di voler eliminare questo elemento?",module,Magento_Customer
-"Account Dashboard","Dashboard Account",module,Magento_Customer
+"Account Dashboard","Bacheca account",module,Magento_Customer
 "Edit Account Information","Modificare le informazioni Account",module,Magento_Customer
 "Password forgotten","Password dimenticata",module,Magento_Customer
-"My Dashboard",Dashboard,module,Magento_Customer
+"My Dashboard","La mia bacheca",module,Magento_Customer
 "You are signed out","Ti sei disconnesso",module,Magento_Customer
 "Store Credit","Credito negozio",module,Magento_CustomerBalance
 "Delete Orphan Balances","Elimina saldi orfani",module,Magento_CustomerBalance
@@ -3919,7 +3919,7 @@ Customer,Cliente,module,Magento_CustomerCustomAttributes
 "Choose Website:","Scegliere il website:",module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Si prega di confermare il cambio ambito di applicazione. Tutti i dati non salvati andranno persi.",module,Magento_CustomerCustomAttributes
 "* Required Fields","* Campi obbligatori",module,Magento_CustomerCustomAttributes
-"Contact Information","Informazioni di Contatto",module,Magento_CustomerCustomAttributes
+"Contact Information","Informazioni di contatto",module,Magento_CustomerCustomAttributes
 Company,Società,module,Magento_CustomerCustomAttributes
 "Phone Number","Numero di telefono",module,Magento_CustomerCustomAttributes
 Fax,Fax,module,Magento_CustomerCustomAttributes
@@ -3940,7 +3940,7 @@ Country,Paese,module,Magento_CustomerCustomAttributes
 "Go back",Indietro,module,Magento_CustomerCustomAttributes
 "Account Information","Informazioni sull'account",module,Magento_CustomerCustomAttributes
 "Change Email","Cambia email",module,Magento_CustomerCustomAttributes
-"Change Password","Cambia Password",module,Magento_CustomerCustomAttributes
+"Change Password","Cambia password",module,Magento_CustomerCustomAttributes
 "Change Email and Password","Cambia E-mail e Password",module,Magento_CustomerCustomAttributes
 Email,Email,module,Magento_CustomerCustomAttributes
 "Current Password","Password attuale",module,Magento_CustomerCustomAttributes
@@ -3948,7 +3948,7 @@ Email,Email,module,Magento_CustomerCustomAttributes
 "Password Strength","Password Strength",module,Magento_CustomerCustomAttributes
 "No Password","No Password",module,Magento_CustomerCustomAttributes
 "Confirm New Password","Conferma nuova Password",module,Magento_CustomerCustomAttributes
-"Personal Information","Informationi personali",module,Magento_CustomerCustomAttributes
+"Personal Information","Informazioni personali",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Iscriviti alla Newsletter",module,Magento_CustomerCustomAttributes
 "Address Information","Informazioni indirizzo",module,Magento_CustomerCustomAttributes
 "Sign-in Information","Informazioni di accesso",module,Magento_CustomerCustomAttributes
@@ -7148,7 +7148,7 @@ Updated:,Aggiornato:,module,Magento_Paypal
 "Payment Method:","Metodo di pagamento:",module,Magento_Paypal
 "Order #","Ordine n.",module,Magento_Paypal
 Date,Data,module,Magento_Paypal
-"Ship To","Spedisci A",module,Magento_Paypal
+"Ship To","Spedisci a",module,Magento_Paypal
 "Order Status","Status Ordine",module,Magento_Paypal
 "View Order","Visualizza ordine",module,Magento_Paypal
 "Back to Billing Agreements","Torna agli accordi di fatturazione",module,Magento_Paypal
@@ -8845,7 +8845,7 @@ Value,Valore,module,Magento_Sales
 "Back to My Orders","Torna ai miei ordini",module,Magento_Sales
 "View Another Order","Mostra un altro ordine",module,Magento_Sales
 "About Your Refund","Informazioni sul tuo rimborso",module,Magento_Sales
-"My Orders","I Miei ordini",module,Magento_Sales
+"My Orders","I miei ordini",module,Magento_Sales
 "Subscribe to Order Status","Iscriviti per gli status dell'ordine",module,Magento_Sales
 "About Your Invoice","Info sulla tua fattura",module,Magento_Sales
 "Print Order # %1","Stampa ordine # %1",module,Magento_Sales
@@ -9260,7 +9260,7 @@ Continue,Continua,module,Magento_Sales
 "Product Name","Nome prodotto",module,Magento_Sales
 "Order #","Ordine n.",module,Magento_Sales
 Date,Data,module,Magento_Sales
-"Ship To","Spedisci A",module,Magento_Sales
+"Ship To","Spedisci a",module,Magento_Sales
 Actions,Azioni,module,Magento_Sales
 "View Order","Visualizza ordine",module,Magento_Sales
 "You have placed no orders.","Non è stato inserito nessun ordine.",module,Magento_Sales
@@ -12283,9 +12283,9 @@ Debug,Debug,module,Magento_Worldpay
 "Set Order Status to Suspected Fraud for Postcode AVS","Imposta lo status dell'ordine come sospetta frode per AVS CAP",module,Magento_Worldpay
 "Sort Order",Ordinamento,module,Magento_Worldpay
 Summary,Riepilogo,theme,frontend/Magento/blank
-"Account Dashboard","Dashboard Account",theme,frontend/Magento/blank
+"Account Dashboard","Bacheca account",theme,frontend/Magento/blank
 "Account Information","Informazioni sull'account",theme,frontend/Magento/blank
-"Address Book",Rubrica,theme,frontend/Magento/blank
+"Address Book","Rubrica indirizzi",theme,frontend/Magento/blank
 Menu,Menu,theme,frontend/Magento/blank
 Account,Account,theme,frontend/Magento/blank
 Settings,Impostazioni,theme,frontend/Magento/blank
@@ -12309,7 +12309,7 @@ Password:,Password:,theme,frontend/Magento/luma
 "Proceed through checkout faster","Procedere velocemente attraverso la conferma dell'ordine",theme,frontend/Magento/luma
 "Order Status","Stato Ordine",theme,frontend/Magento/luma
 "Check the status of orders","Controlla lo stato degli ordini",theme,frontend/Magento/luma
-"Manage Addresses","Gestisci Indirizzi",theme,frontend/Magento/luma
+"Manage Addresses","Gestisci indirizzi",theme,frontend/Magento/luma
 "Store alternative addresses","Indirizzi alternativi del negozio",theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","Per spedizione a più membri della famiglia e a più amici",theme,frontend/Magento/luma
 "Order History","Cronologia ordine",theme,frontend/Magento/luma
@@ -12343,9 +12343,9 @@ Footer,Footer,theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","La conferma di spedizione è qua sotto. Grazie ancora per l'acquisto.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","La tua spedizione #%shipment_id per l'ordine #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
-"Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
-"Account Information","Account Information",theme,frontend/Magento/luma
-"Address Book","Address Book",theme,frontend/Magento/luma
+"Account Dashboard","Bacheca account",theme,frontend/Magento/luma
+"Account Information","Informazioni account",theme,frontend/Magento/luma
+"Address Book","Rubrica indirizzi",theme,frontend/Magento/luma
 "Are you sure you would like to remove this item from the shopping cart?","Sei sicuro di voler rimuovere questo prodotto dal carrello?",module,Magento_Checkout
 Cart,Carrello
 "<span>Add to </span>Cart","<span>Aggiungi al </span>carrello"
@@ -12361,3 +12361,6 @@ Cart,Carrello
 "Your Email Address","Il tuo indirizzo email"
 "Thank you for choosing to create an account with us.","Grazie per aver scelto di creare un account con noi."
 "Further instructions on the creation of your account will be sent to your email address","Abbiamo inviato una email di istruzioni per la creazione del tuo account al tuo indirizzo email"
+"Failure on checkout","Errore durante il processo di acquisto"
+"Stored Payment Methods","Metodi di pagamento salvati",module,Magento_Customer
+"You have no stored payment methods.","Non hai metodi di pagamento salvati",module,Magento_Customer

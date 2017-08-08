@@ -1055,7 +1055,7 @@ Credit,Credito,module,Magento_BraintreeTwo
 "Please, enter valid Expiration Date","Per favore inserisci una data di scadenza valida",module,Magento_BraintreeTwo
 "Card Verification Number","Numero di verifica della carta",module,Magento_BraintreeTwo
 "Please, enter valid Card Verification Number","Per favore inserire un numero di verifica valido (CVN)",module,Magento_BraintreeTwo
-ending,fine,module,Magento_BraintreeTwo
+ending,"termina con",module,Magento_BraintreeTwo
 expires,scadenza,module,Magento_BraintreeTwo
 "Credit Card Information","Informazioni carta di credito",module,Magento_BraintreeTwo
 "What is this?","Cos'è questo?",module,Magento_BraintreeTwo
@@ -7125,7 +7125,7 @@ Error,Errore,module,Magento_Paypal
 Customer,Cliente,module,Magento_Paypal
 "Created At","Creato il",module,Magento_Paypal
 "Updated At","Aggiornato al",module,Magento_Paypal
-ending,fine,module,Magento_Paypal
+ending,"termina con",module,Magento_Paypal
 expires,scadenza,module,Magento_Paypal
 "Not sure what PayPal payment method to use? Click","Non sei sicuro di quale metodo di pagamento PayPal utilizzare? Clicca",module,Magento_Paypal
 here,qui,module,Magento_Paypal
@@ -11750,7 +11750,7 @@ Name,Nome,module,Magento_Variable
 "Expiration Date","Data di scadenza",module,Magento_Vault
 Type,Tipo,module,Magento_Vault
 "You have no credit cards.","Non hai carte di credito.",module,Magento_Vault
-ending,fine,module,Magento_Vault
+ending,"termina con",module,Magento_Vault
 Actions,Azioni,module,Magento_Vault
 Delete,Elimina,module,Magento_Vault
 Cancel,Annulla,module,Magento_Vault
@@ -12316,7 +12316,7 @@ Password:,Password:,theme,frontend/Magento/luma
 "View past orders","Mostra ordini precedenti",theme,frontend/Magento/luma
 Footer,Footer,theme,frontend/Magento/luma
 "About Us","Chi siamo",theme,frontend/Magento/luma
-"Customer Service","Assistenza Clienti",theme,frontend/Magento/luma
+"Customer Service","Servizio clienti",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Orari di apertura: <br/> <span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
@@ -12367,3 +12367,5 @@ Cart,Carrello
 "Unable to send mail.","Impossibile inviare l'email."
 "Track All Shipments","Traccia tutte le spedizioni",module,Magento_Shipping
 "Track your order","Traccia il tuo ordine",module,Magento_Shipping
+"We store you payment information securely on Braintree servers via SSL.","Salviamo in modo sicuro le tue informazioni di pagamento sui server di Braintree via SSL.",module,Magento_Braintree
+"Select a new payment method","Seleziona un nuovo metodo di pagamento"

@@ -11102,7 +11102,7 @@ Password:,Password:,module,Magento_Theme
 "Proceed through checkout faster","Proceed through checkout faster",module,Magento_Theme
 "Check the status of orders","Check the status of orders",module,Magento_Theme
 "View past orders","View past orders",module,Magento_Theme
-"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Theme
+"Store alternative addresses (for shipping to multiple family members and friends)","Indirizzi alternativi negozio (per la spedizione di più membri della famiglia e gli amici)",module,Magento_Theme
 "We could not detect a size.","Non è possibile individuare una dimensione.",module,Magento_Theme
 "We don't recognize this file extension.","Non riconosciamo questa estensione file.",module,Magento_Theme
 Empty,Vuoto,module,Magento_Theme

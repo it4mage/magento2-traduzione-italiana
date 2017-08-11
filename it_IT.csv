@@ -346,7 +346,7 @@ Shipping,Spedizione,module,Magento_Backend
 "Last Name",Cognome,module,Magento_Backend
 Email,Email,module,Magento_Backend
 "User Email","Email Utente",module,Magento_Backend
-"New Password","Nuova Password",module,Magento_Backend
+"New Password","Nuova password",module,Magento_Backend
 "Password Confirmation","Conferma password",module,Magento_Backend
 "Interface Locale","Interfaccia Locale",module,Magento_Backend
 "Current User Identity Verification","Verifica dell'identità utente corrente",module,Magento_Backend
@@ -1199,7 +1199,7 @@ To,Al,module,Magento_Bundle
 "Your Customization","La tua personalizzazione",module,Magento_Bundle
 Availability,Disponibilita',module,Magento_Bundle
 "In stock",Disponibile,module,Magento_Bundle
-"Out of stock","Non Disponibile",module,Magento_Bundle
+"Out of stock","Non disponibile",module,Magento_Bundle
 Summary,Riepilogo,module,Magento_Bundle
 "%1 x %2","%1 x %2",module,Magento_Bundle
 Availability:,Disponibilita':,module,Magento_Bundle
@@ -1761,7 +1761,7 @@ Backorders,Backorders,module,Magento_Catalog
 "Qty Increments","Incrementi qtà",module,Magento_Catalog
 "Stock Availability",Disponibilità,module,Magento_Catalog
 "In Stock",Disponibile,module,Magento_Catalog
-"Out of Stock","Non Disponibile",module,Magento_Catalog
+"Out of Stock","Non disponibile",module,Magento_Catalog
 "Add Product To Websites","Aggiungi prodotto ai siti web",module,Magento_Catalog
 "Remove Product From Websites","Rimuovi il prodotto dai siti Web",module,Magento_Catalog
 "To hide an item in catalog or search results, set the status to ""Disabled"".","Per nascondere un articolo nei risultati di ricerca o nel catalogo, impostare lo stato su ""Disabilitato"".",module,Magento_Catalog
@@ -1811,7 +1811,7 @@ Role,Ruolo,module,Magento_Catalog
 "Remove Product","Rimuovere il prodotto",module,Magento_Catalog
 "Add to Cart","Aggiungi al Carrello",module,Magento_Catalog
 "In stock",Disponibile,module,Magento_Catalog
-"Out of stock","Non Disponibile",module,Magento_Catalog
+"Out of stock","Non disponibile",module,Magento_Catalog
 "Add to Wish List","Lista dei desideri",module,Magento_Catalog
 "You have no items to compare.","Non ci sono articoli da confrontare.",module,Magento_Catalog
 "Remove This Item","Rimuovi questo articolo",module,Magento_Catalog
@@ -2100,7 +2100,7 @@ Edit,Modifica,module,Magento_CatalogEvent
 "Allow Qty Below 0","Consenti qtà inferiori a 0",module,Magento_CatalogInventory
 "Allow Qty Below 0 and Notify Customer","Consenti qtà inferiori a 0 e notifica al cliente",module,Magento_CatalogInventory
 "In Stock",Disponibile,module,Magento_CatalogInventory
-"Out of Stock","Non Disponibile",module,Magento_CatalogInventory
+"Out of Stock","Non disponibile",module,Magento_CatalogInventory
 "Unable to save Stock Item","Unable to save Stock Item",module,Magento_CatalogInventory
 "Stock Item with id ""%1"" does not exist.","L'articolo con id ""%1"" non esiste.",module,Magento_CatalogInventory
 "Unable to remove Stock Item with id ""%1""","Unable to remove Stock Item with id ""%1""",module,Magento_CatalogInventory
@@ -2422,7 +2422,7 @@ SKU,SKU,module,Magento_CatalogWidget
 "Please choose a condition to add.","Si prega di scegliere una condizione da aggiungere.",module,Magento_CatalogWidget
 "Add to Cart","Aggiungi al Carrello",module,Magento_CatalogWidget
 "In stock",Disponibile,module,Magento_CatalogWidget
-"Out of stock","Non Disponibile",module,Magento_CatalogWidget
+"Out of stock","Non disponibile",module,Magento_CatalogWidget
 "Add to Wish List","Lista dei desideri",module,Magento_CatalogWidget
 "Add to Compare","Confronta",module,Magento_CatalogWidget
 "Catalog Products List","Elenco prodotti catalogo",module,Magento_CatalogWidget
@@ -2445,13 +2445,13 @@ State/Province,Stato/Provincia,module,Magento_Checkout
 "My Cart (1 item)","Carrello (1 articolo)",module,Magento_Checkout
 "My Cart (%1 items)","Carrello (%1 articoli)",module,Magento_Checkout
 "My Cart",Carrello,module,Magento_Checkout
-"For delivery questions.","Per domande sulla consegna.",module,Magento_Checkout
+"For delivery questions.","Per eventuali domande sulla consegna.",module,Magento_Checkout
 "Customer is already registered","Il cliente è già registrato",module,Magento_Checkout
 "Your session has expired","La sessione è scaduta",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","Verrà inviata una lettera con ulteriori istruzioni al tuo indirizzo email.",module,Magento_Checkout
 "You added %1 to your shopping cart.","Hai aggiunto %1 al tuo carrello.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Al momento è impossibile aggiungere questo articolo al carrello.",module,Magento_Checkout
-"Out of stock","Non Disponibile",module,Magento_Checkout
+"Out of stock","Non disponibile",module,Magento_Checkout
 "We can't find the quote item.","Non è possibile trovare l'elemento del preventivo.",module,Magento_Checkout
 "We cannot configure the product.","Impossibile configurare il prodotto.",module,Magento_Checkout
 "You used coupon code ""%1"".","È stato utilizzato il codice coupon ""%1"".",module,Magento_Checkout
@@ -3134,7 +3134,7 @@ Searchable,Searchable,module,Magento_ConfigurableProductStaging
 Comparable,Confrontabile,module,Magento_ConfigurableProductStaging
 "Page not found.","Pagina non trovata.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Grazie per averci contattato con i vostri commenti e domande. Vi risponderemo al più presto.",module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.","Al momento è impossibile elaborare la richiesta. Siamo spiacenti, questo è tutto quello che sappiamo.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","Al momento è impossibile elaborare la richiesta. Riprova più tardi.",module,Magento_Contact
 "* Required Fields","* Campi obbligatori",module,Magento_Contact
 "Write Us",Scrivici,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Lasciaci una nota e ti risponderemo il più presto possibile.",module,Magento_Contact
@@ -3580,10 +3580,10 @@ Email,Email,module,Magento_Customer
 "Change Email","Cambia email",module,Magento_Customer
 "Change Email and Password","Cambia E-mail e Password",module,Magento_Customer
 "Current Password","Password attuale",module,Magento_Customer
-"New Password","Nuova Password",module,Magento_Customer
+"New Password","Nuova password",module,Magento_Customer
 "Password Strength","Sicurezza password",module,Magento_Customer
 "No Password","nessuna password",module,Magento_Customer
-"Confirm New Password","Conferma nuova Password",module,Magento_Customer
+"Confirm New Password","Conferma nuova password",module,Magento_Customer
 Save,Salva,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Inserisci il tuo indirizzo email qui sotto per ricevere un link di reimpostazione della password.",module,Magento_Customer
 "Reset My Password","Resetta la mia password",module,Magento_Customer
@@ -3944,10 +3944,10 @@ Country,Paese,module,Magento_CustomerCustomAttributes
 "Change Email and Password","Cambia E-mail e Password",module,Magento_CustomerCustomAttributes
 Email,Email,module,Magento_CustomerCustomAttributes
 "Current Password","Password attuale",module,Magento_CustomerCustomAttributes
-"New Password","Nuova Password",module,Magento_CustomerCustomAttributes
+"New Password","Nuova password",module,Magento_CustomerCustomAttributes
 "Password Strength","Sicurezza password",module,Magento_CustomerCustomAttributes
 "No Password","nessuna password",module,Magento_CustomerCustomAttributes
-"Confirm New Password","Conferma nuova Password",module,Magento_CustomerCustomAttributes
+"Confirm New Password","Conferma nuova password",module,Magento_CustomerCustomAttributes
 "Personal Information","Informazioni personali",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Iscriviti alla Newsletter",module,Magento_CustomerCustomAttributes
 "Address Information","Informazioni indirizzo",module,Magento_CustomerCustomAttributes
@@ -4416,7 +4416,7 @@ U,U,module,Magento_Downloadable
 "Unselect all","Deseleziona tutto",module,Magento_Downloadable
 Availability,Disponibilita',module,Magento_Downloadable
 "In stock",Disponibile,module,Magento_Downloadable
-"Out of stock","Non Disponibile",module,Magento_Downloadable
+"Out of stock","Non disponibile",module,Magento_Downloadable
 "Go to <a href=""%1"">My Downloadable Products</a>","Vai ai <a href=""%1"">Prodotti scaricabili</a>",module,Magento_Downloadable
 "Downloadable Products","Prodotti scaricabili",module,Magento_Downloadable
 "Order #","Ordine n.",module,Magento_Downloadable
@@ -4881,7 +4881,7 @@ To,A,module,Magento_GiftCard
 "All Websites [%1]","Tutti i Website [%1]",module,Magento_GiftCard
 "%1 [%2]","%1 [%2]",module,Magento_GiftCard
 Availability:,Disponibilita':,module,Magento_GiftCard
-"Out of stock","Non Disponibile",module,Magento_GiftCard
+"Out of stock","Non disponibile",module,Magento_GiftCard
 "Choose an Amount...","Scegli un importo...",module,Magento_GiftCard
 "Other Amount...","Altro importo...",module,Magento_GiftCard
 "Amount in %1","Importo in %1",module,Magento_GiftCard
@@ -5551,7 +5551,7 @@ Price,Prezzo,module,Magento_GroupedProduct
 Actions,Azioni,module,Magento_GroupedProduct
 "Associated Products","Prodotti associati",module,Magento_GroupedProduct
 Availability:,Disponibilita':,module,Magento_GroupedProduct
-"Out of stock","Non Disponibile",module,Magento_GroupedProduct
+"Out of stock","Non disponibile",module,Magento_GroupedProduct
 "Product Name","Nome prodotto",module,Magento_GroupedProduct
 Qty,Qtà,module,Magento_GroupedProduct
 "No options of this product are available.","Nessuna opzione di questo prodotto è disponibile.",module,Magento_GroupedProduct
@@ -7896,7 +7896,7 @@ Error,Errore,module,Magento_Reports
 "Recently Viewed","Visti di recente",module,Magento_Reports
 "Add to Cart","Aggiungi al Carrello",module,Magento_Reports
 "In stock",Disponibile,module,Magento_Reports
-"Out of stock","Non Disponibile",module,Magento_Reports
+"Out of stock","Non disponibile",module,Magento_Reports
 "Add to Wish List","Lista dei desideri",module,Magento_Reports
 "Add to Compare","Confronta",module,Magento_Reports
 "Recently Compared","Confrontati di recente",module,Magento_Reports
@@ -9997,7 +9997,7 @@ None,Nessuno,module,Magento_Security
 "Some error","Qualche errore",module,Magento_SendFriend
 "Localized Exception.","Eccezione localizzazione.",module,Magento_SendFriend
 Exception.,Eccezione.,module,Magento_SendFriend
-"Remove Recipent","Rimuovere destinatario",module,Magento_SendFriend
+"Remove Recipent","Rimuovi destinatario",module,Magento_SendFriend
 Remove,Elimina,module,Magento_SendFriend
 Name,Nome,module,Magento_SendFriend
 Email,Email,module,Magento_SendFriend
@@ -11483,7 +11483,7 @@ Users,Utenti,module,Magento_User
 "Account Information","Informazioni sull'account",module,Magento_User
 "User Email","Email Utente",module,Magento_User
 Password,Password,module,Magento_User
-"New Password","Nuova Password",module,Magento_User
+"New Password","Nuova password",module,Magento_User
 "Password Confirmation","Conferma password",module,Magento_User
 "Interface Locale","Interfaccia Locale",module,Magento_User
 "This account is","Questo account è",module,Magento_User
@@ -11551,7 +11551,7 @@ username,"nome utente",module,Magento_User
 "Back to Sign in","Torna alla registrazione",module,Magento_User
 "Forgot your password?","Hai dimenticato la password?",module,Magento_User
 "Reset a Password","Reimposta la Password",module,Magento_User
-"Confirm New Password","Conferma nuova Password",module,Magento_User
+"Confirm New Password","Conferma nuova password",module,Magento_User
 "Reset Password","Reset Password",module,Magento_User
 "Roles Resources","Risorse ruoli",module,Magento_User
 "Resource Access","Accesso alle risorse",module,Magento_User
@@ -12113,7 +12113,7 @@ Conditions,Condizioni,module,Magento_Widget
 "Widget ID","ID del Widget",module,Magento_Widget
 "Wish List","Lista desideri",module,Magento_Wishlist
 "Wish List Sharing","Condivisione della lista desideri",module,Magento_Wishlist
-"My Wish List","La mia lista desideri",module,Magento_Wishlist
+"My Wish List","La mia lista dei desideri",module,Magento_Wishlist
 "%1's Wish List","Lista desideri di %1",module,Magento_Wishlist
 "Page not found.","Pagina non trovata.",module,Magento_Wishlist
 "We can't specify a product.","Non è possibile specificare un prodotto.",module,Magento_Wishlist
@@ -12178,7 +12178,7 @@ Qty,Qtà,module,Magento_Wishlist
 "Add to Cart","Aggiungi al Carrello",module,Magento_Wishlist
 Availability,Disponibilita',module,Magento_Wishlist
 "In stock",Disponibile,module,Magento_Wishlist
-"Out of stock","Non Disponibile",module,Magento_Wishlist
+"Out of stock","Non disponibile",module,Magento_Wishlist
 Edit,Modifica,module,Magento_Wishlist
 "Remove Item","Rimuovi elemento",module,Magento_Wishlist
 "Remove item","Rimuovi il prodotto",module,Magento_Wishlist
@@ -12369,3 +12369,4 @@ Cart,Carrello
 "Track your order","Traccia il tuo ordine",module,Magento_Shipping
 "We store you payment information securely on Braintree servers via SSL.","Salviamo in modo sicuro le tue informazioni di pagamento sui server di Braintree via SSL.",module,Magento_Braintree
 "Select a new payment method","Seleziona un nuovo metodo di pagamento"
+"All ","Tutto in "

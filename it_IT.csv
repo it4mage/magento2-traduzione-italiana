@@ -1806,7 +1806,7 @@ Role,Ruolo,module,Magento_Catalog
 "Buy %1 for %2 each","Acquista %1 a %2 ognuno",module,Magento_Catalog
 "Shop By","Naviga per",module,Magento_Catalog
 "Shopping Options",Opzioni,module,Magento_Catalog
-"Compare Products","Confronta Prodotti",module,Magento_Catalog
+"Compare Products","Confronta prodotti",module,Magento_Catalog
 "Print This Page","Stampa questa pagina",module,Magento_Catalog
 "Remove Product","Rimuovere il prodotto",module,Magento_Catalog
 "Add to Cart","Aggiungi al Carrello",module,Magento_Catalog
@@ -2467,7 +2467,7 @@ State/Province,Stato/Provincia,module,Magento_Checkout
 Checkout,Cassa,module,Magento_Checkout
 "Page not found.","Pagina non trovata.",module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Si prega di accettare tutti i termini e le condizioni prima di effettuare l'ordine.",module,Magento_Checkout
-"Something went wrong while processing your order. Please try again later.","Qualcosa è andato storto durante l'elaborazione del tuo ordine. Per piacere riprova più tardi.",module,Magento_Checkout
+"Something went wrong while processing your order. Please try again later.","Qualcosa è andato storto durante l'elaborazione del tuo ordine. Si prega di riprovare più tardi.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 non estende \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "We can't find the product.","Impossibile trovare il prodotto.",module,Magento_Checkout
 "The product does not exist.","Il prodotto non esiste.",module,Magento_Checkout
@@ -3134,7 +3134,7 @@ Searchable,Searchable,module,Magento_ConfigurableProductStaging
 Comparable,Confrontabile,module,Magento_ConfigurableProductStaging
 "Page not found.","Pagina non trovata.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Grazie per averci contattato con i vostri commenti e domande. Vi risponderemo al più presto.",module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.","Al momento è impossibile elaborare la richiesta. Riprova più tardi.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","Al momento non è possibile elaborare la richiesta. Si prega di riprovare più tardi.",module,Magento_Contact
 "* Required Fields","* Campi obbligatori",module,Magento_Contact
 "Write Us",Scrivici,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Lasciaci una nota e ti risponderemo il più presto possibile.",module,Magento_Contact
@@ -12364,9 +12364,17 @@ Cart,Carrello
 "Failure on checkout","Errore durante il processo di acquisto"
 "Stored Payment Methods","Metodi di pagamento salvati",module,Magento_Customer
 "You have no stored payment methods.","Non hai metodi di pagamento salvati",module,Magento_Customer
-"Unable to send mail.","Impossibile inviare l'email."
+"Unable to send mail. ","Impossibile inviare l'email."
+"Unable to send mail","Impossibile inviare l'email."
 "Track All Shipments","Traccia tutte le spedizioni",module,Magento_Shipping
 "Track your order","Traccia il tuo ordine",module,Magento_Shipping
 "We store you payment information securely on Braintree servers via SSL.","Salviamo in modo sicuro le tue informazioni di pagamento sui server di Braintree via SSL.",module,Magento_Braintree
 "Select a new payment method","Seleziona un nuovo metodo di pagamento"
 "All ","Tutto in "
+"Minimum of different classes of characters in password is %1.","Il minimo di diverse classi di caratteri nella password è %1.",module,Magento_Customer
+" Classes of characters: Lower Case, Upper Case, Digits, Special Characters."," Classi di caratteri: lettere minuscole, lettere maiuscole, cifre e caratteri speciali.",module,Magento_Customer
+"Minimum of different classes of characters in password is ","Il minimo di diverse classi di caratteri nella password è "
+". Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",". Classi di caratteri: lettere minuscole, lettere maiuscole, cifre e caratteri speciali."
+"Minimum length of this field must be equal or greater than 8 symbols","La lunghezza minima di questo campo deve essere maggiore o uguale a 8 caratteri"
+"Minimum length of this field must be equal or greater than %1 symbols.","La lunghezza minima di questo campo deve essere maggiore o uguale a %1 caratteri."
+" Leading and trailing spaces will be ignored."," Gli spazi inziali e finali verranno ignorati."

@@ -12378,3 +12378,4 @@ Cart,Carrello
 "Minimum length of this field must be equal or greater than 8 symbols","La lunghezza minima di questo campo deve essere maggiore o uguale a 8 caratteri"
 "Minimum length of this field must be equal or greater than %1 symbols.","La lunghezza minima di questo campo deve essere maggiore o uguale a %1 caratteri."
 " Leading and trailing spaces will be ignored."," Gli spazi inziali e finali verranno ignorati."
+"Please enter the same value again.","I valori dei due campi devono coincidere."

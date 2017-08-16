@@ -3617,7 +3617,7 @@ Password:,Password:,module,Magento_Customer
 "Proceed through checkout faster","Procedere velocemente attraverso il checkout",module,Magento_Customer
 "Check the status of orders","Controlla gli status degli ordini",module,Magento_Customer
 "View past orders","Mostra ordini passati",module,Magento_Customer
-"Store alternative addresses (for shipping to multiple family members and friends)","Indirizzi alternativi negozio (per la spedizione di più membri della famiglia e gli amici)",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Salvare indirizzi alternativi (per la spedizione a più membri della famiglia e agli amici)",module,Magento_Customer
 "Please confirm your %store_name account","Please confirm your %store_name account",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","È necessario confermare il tuo indirizzo email %customer_email prima di poter accedere (il link è valido solo una volta):",module,Magento_Customer
 "Confirm Your Account","Conferma il tuo Account",module,Magento_Customer
@@ -11102,7 +11102,7 @@ Password:,Password:,module,Magento_Theme
 "Proceed through checkout faster","Proceed through checkout faster",module,Magento_Theme
 "Check the status of orders","Check the status of orders",module,Magento_Theme
 "View past orders","View past orders",module,Magento_Theme
-"Store alternative addresses (for shipping to multiple family members and friends)","Indirizzi alternativi negozio (per la spedizione di più membri della famiglia e gli amici)",module,Magento_Theme
+"Store alternative addresses (for shipping to multiple family members and friends)","Salvare indirizzi alternativi (per la spedizione a più membri della famiglia e agli amici)",module,Magento_Theme
 "We could not detect a size.","Non è possibile individuare una dimensione.",module,Magento_Theme
 "We don't recognize this file extension.","Non riconosciamo questa estensione file.",module,Magento_Theme
 Empty,Vuoto,module,Magento_Theme
@@ -12310,7 +12310,7 @@ Password:,Password:,theme,frontend/Magento/luma
 "Order Status","Stato Ordine",theme,frontend/Magento/luma
 "Check the status of orders","Controlla lo stato degli ordini",theme,frontend/Magento/luma
 "Manage Addresses","Gestisci indirizzi",theme,frontend/Magento/luma
-"Store alternative addresses","Indirizzi alternativi del negozio",theme,frontend/Magento/luma
+"Store alternative addresses","Salvare indirizzi alternativi",theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","Per spedizione a più membri della famiglia e a più amici",theme,frontend/Magento/luma
 "Order History","Cronologia ordine",theme,frontend/Magento/luma
 "View past orders","Mostra ordini precedenti",theme,frontend/Magento/luma

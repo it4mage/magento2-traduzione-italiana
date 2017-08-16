@@ -8690,7 +8690,7 @@ To,Al,module,Magento_Sales
 Message,Messaggio,module,Magento_Sales
 "Edit Order #%1","Modifica l'ordine #%1",module,Magento_Sales
 "Create New Order for %1 in %2","Crea nuovo ordine per %1 in %2",module,Magento_Sales
-"Create New Order in %1","Create New Order in %1",module,Magento_Sales
+"Create New Order in %1","Crea nuovo ordine in %1",module,Magento_Sales
 "Create New Order for %1","Crea nuovo ordine per %1",module,Magento_Sales
 "Create New Order for New Customer","Crea nuovo ordine per il nuovo cliente",module,Magento_Sales
 "Items Ordered","Articoli ordinati",module,Magento_Sales

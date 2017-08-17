@@ -3617,7 +3617,7 @@ Password:,Password:,module,Magento_Customer
 "Proceed through checkout faster","Procedere velocemente attraverso il checkout",module,Magento_Customer
 "Check the status of orders","Controlla gli status degli ordini",module,Magento_Customer
 "View past orders","Mostra ordini passati",module,Magento_Customer
-"Store alternative addresses (for shipping to multiple family members and friends)","Indirizzi alternativi negozio (per la spedizione di più membri della famiglia e gli amici)",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Salvare indirizzi alternativi (per la spedizione a più membri della famiglia e agli amici)",module,Magento_Customer
 "Please confirm your %store_name account","Please confirm your %store_name account",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","È necessario confermare il tuo indirizzo email %customer_email prima di poter accedere (il link è valido solo una volta):",module,Magento_Customer
 "Confirm Your Account","Conferma il tuo Account",module,Magento_Customer
@@ -8690,7 +8690,7 @@ To,Al,module,Magento_Sales
 Message,Messaggio,module,Magento_Sales
 "Edit Order #%1","Modifica l'ordine #%1",module,Magento_Sales
 "Create New Order for %1 in %2","Crea nuovo ordine per %1 in %2",module,Magento_Sales
-"Create New Order in %1","Create New Order in %1",module,Magento_Sales
+"Create New Order in %1","Crea nuovo ordine in %1",module,Magento_Sales
 "Create New Order for %1","Crea nuovo ordine per %1",module,Magento_Sales
 "Create New Order for New Customer","Crea nuovo ordine per il nuovo cliente",module,Magento_Sales
 "Items Ordered","Articoli ordinati",module,Magento_Sales
@@ -9292,22 +9292,22 @@ Search,Cerca,module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","La tua nota di credito #%creditmemo_id per l'ordine #%order_id",module,Magento_Sales
 "Billing Info","Informazioni di fatturazione",module,Magento_Sales
 "Shipping Info","Informazioni di spedizione",module,Magento_Sales
-"Update to your %store_name credit memo","Aggiornamenti sulla tua nota di credito %store_name",module,Magento_Sales
+"Update to your %store_name credit memo","%store_name - Aggiornamenti sulla tua nota di credito",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Il tuo ordine #%increment_id è stato aggiornato con lo status di <strong>%order_status</strong>.",module,Magento_Sales
 "Invoice for your %store_name order","Fattura per il tuo ordine %store_name",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","La fattura #%invoice_id per l'ordine #%order_id",module,Magento_Sales
-"Update to your %store_name invoice","Aggiornamenti sulla tua fattura %store_name",module,Magento_Sales
-"Your %store_name order confirmation","Your %store_name order confirmation",module,Magento_Sales
+"Update to your %store_name invoice","%store_name - Aggiornamenti sulla tua fattura",module,Magento_Sales
+"Your %store_name order confirmation","%store_name - Conferma d'ordine",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Una volta che il pacco sarà spedito, ti invieremo il numero di tracciamento.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Il tuo ordine <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Effettuato il <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.","Una volta che il pacco sarà spedito, ti invieremo un'email con un link per tracciare il tuo ordine.",module,Magento_Sales
-"Update to your %store_name order","Aggiornamento sul tuo ordine %store_name",module,Magento_Sales
-"Your %store_name order has shipped","Il tuo ordine %store_name order è stato spedito",module,Magento_Sales
+"Update to your %store_name order","%store_name - Aggiornamenti sul tuo ordine",module,Magento_Sales
+"Your %store_name order has shipped","%store_name - Il tuo ordine è stato spedito",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","La conferma di spedizione è qua sotto. Grazie ancora per l'acquisto.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","La tua spedizione #%shipment_id per l'ordine #%order_id",module,Magento_Sales
-"Update to your %store_name shipment","Aggiornamento sulla tua spedizione %store_name",module,Magento_Sales
+"Update to your %store_name shipment","%store_name - Aggiornamenti sulla tua spedizione",module,Magento_Sales
 "Gift Options for","Opzioni regalo per",module,Magento_Sales
 "Add Products","Aggiungi Prodotti",module,Magento_Sales
 "You have item changes","Tu hai cambiato l'oggetto",module,Magento_Sales
@@ -11102,7 +11102,7 @@ Password:,Password:,module,Magento_Theme
 "Proceed through checkout faster","Proceed through checkout faster",module,Magento_Theme
 "Check the status of orders","Check the status of orders",module,Magento_Theme
 "View past orders","View past orders",module,Magento_Theme
-"Store alternative addresses (for shipping to multiple family members and friends)","Indirizzi alternativi negozio (per la spedizione di più membri della famiglia e gli amici)",module,Magento_Theme
+"Store alternative addresses (for shipping to multiple family members and friends)","Salvare indirizzi alternativi (per la spedizione a più membri della famiglia e agli amici)",module,Magento_Theme
 "We could not detect a size.","Non è possibile individuare una dimensione.",module,Magento_Theme
 "We don't recognize this file extension.","Non riconosciamo questa estensione file.",module,Magento_Theme
 Empty,Vuoto,module,Magento_Theme
@@ -12310,7 +12310,7 @@ Password:,Password:,theme,frontend/Magento/luma
 "Order Status","Stato Ordine",theme,frontend/Magento/luma
 "Check the status of orders","Controlla lo stato degli ordini",theme,frontend/Magento/luma
 "Manage Addresses","Gestisci indirizzi",theme,frontend/Magento/luma
-"Store alternative addresses","Indirizzi alternativi del negozio",theme,frontend/Magento/luma
+"Store alternative addresses","Salvare indirizzi alternativi",theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","Per spedizione a più membri della famiglia e a più amici",theme,frontend/Magento/luma
 "Order History","Cronologia ordine",theme,frontend/Magento/luma
 "View past orders","Mostra ordini precedenti",theme,frontend/Magento/luma
@@ -12328,21 +12328,21 @@ Footer,Footer,theme,frontend/Magento/luma
 "Shipping Info","Informazioni di spedizione",theme,frontend/Magento/luma
 "Payment Method","Metodo di pagamento",theme,frontend/Magento/luma
 "Shipping Method","Metodo di spedizione",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","%store_name - Aggiornamenti alla tua nota di credito",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Il tuo ordine #%increment_id è stato aggiornato allo stato di <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Invoice for your %store_name order","%store_name - Fattura per il tuo ordine",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","La fattura #%invoice_id per l'ordine #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"Update to your %store_name invoice","%store_name - Aggiornamenti sulla tua fattura",theme,frontend/Magento/luma
+"Your %store_name order confirmation","%store_name - Conferma d'ordine",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Quando il pacco sarà spedito, ti invieremo il numero di tracking.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Il tuo ordine <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Effettuato il <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Update to your %store_name order","%store_name - Aggiornamenti sul tuo ordine",theme,frontend/Magento/luma
+"Your %store_name order has shipped","%store_name - Il tuo ordine è stato spedito",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","La conferma di spedizione è qua sotto. Grazie ancora per l'acquisto.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","La tua spedizione #%shipment_id per l'ordine #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Update to your %store_name shipment","%store_name - Aggiornamenti sulla tua spedizione",theme,frontend/Magento/luma
 "Account Dashboard","Bacheca account",theme,frontend/Magento/luma
 "Account Information","Informazioni account",theme,frontend/Magento/luma
 "Address Book","Rubrica indirizzi",theme,frontend/Magento/luma

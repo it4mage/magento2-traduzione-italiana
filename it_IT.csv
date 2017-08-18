@@ -10942,8 +10942,8 @@ Rate,Aliquota,module,Magento_Tax
 "Subtotal Only","Solo Subtotale",module,Magento_Tax
 "(Excl. Tax)","(IVA esclusa)",module,Magento_Tax
 "(Incl. Tax)","(IVA inclusa)",module,Magento_Tax
-"Order Total Excl. Tax","Ordine totale tasse escl",module,Magento_Tax
-"Order Total Incl. Tax","Ordine totale tasse incl.",module,Magento_Tax
+"Order Total Excl. Tax","Ordine totale tasse escluse",module,Magento_Tax
+"Order Total Incl. Tax","Ordine totale tasse incluse",module,Magento_Tax
 "Order Total","Totale ordine",module,Magento_Tax
 "Your credit card will be charged for","Sulla tua carta di credito verrà addebitato un importo di",module,Magento_Tax
 Code,Codice,module,Magento_TaxImportExport

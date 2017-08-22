@@ -12184,8 +12184,8 @@ Edit,Modifica,module,Magento_Wishlist
 "Remove item","Rimuovi il prodotto",module,Magento_Wishlist
 "Add to Compare","Confronta",module,Magento_Wishlist
 "This Wish List has no Items","La lista desideri non ha elementi",module,Magento_Wishlist
-"%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
-"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 è stato aggiunto alla lista dei desideri.",module,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","Clicca <a href=""%1"">qui</a> per continuare gli acquisti.",module,Magento_Wishlist
 "See Details","Vedi dettagli",module,Magento_Wishlist
 "Options Details","Dettagli opzioni",module,Magento_Wishlist
 "RSS link to %1's wishlist","Link RSS alla lista desideri di %1",module,Magento_Wishlist
@@ -12202,7 +12202,7 @@ Back,Indietro,module,Magento_Wishlist
 "Remove This Item","Rimuovi questo articolo",module,Magento_Wishlist
 "Go to Wish List","Vai alla lista desideri",module,Magento_Wishlist
 "You have no items in your wish list.","Non ci sono articoli nella lista desideri.",module,Magento_Wishlist
-"Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
+"Take a look at %customer_name's Wish List","Dài un'occhiata alla lista dei desideri di %customer_name",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name vuole condividere questa lista desideri da %store_name con te:",module,Magento_Wishlist
 "Message from %customer_name:","Messaggio da %customer_name:",module,Magento_Wishlist
 "View all Wish List items","Mostra tutti gli elementi della lista desideri",module,Magento_Wishlist
@@ -12370,7 +12370,7 @@ Cart,Carrello
 "Track your order","Traccia il tuo ordine",module,Magento_Shipping
 "We store you payment information securely on Braintree servers via SSL.","Salviamo in modo sicuro le tue informazioni di pagamento sui server di Braintree via SSL.",module,Magento_Braintree
 "Select a new payment method","Seleziona un nuovo metodo di pagamento"
-"All ","Tutto in "
+"All ","Tutti i prodotti "
 "Minimum of different classes of characters in password is %1.","Il minimo di diverse classi di caratteri nella password è %1.",module,Magento_Customer
 " Classes of characters: Lower Case, Upper Case, Digits, Special Characters."," Classi di caratteri: lettere minuscole, lettere maiuscole, cifre e caratteri speciali.",module,Magento_Customer
 "Minimum of different classes of characters in password is ","Il minimo di diverse classi di caratteri nella password è "
@@ -12380,3 +12380,4 @@ Cart,Carrello
 " Leading and trailing spaces will be ignored."," Gli spazi inziali e finali verranno ignorati."
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","La lunghezza minima di questo campo deve essere maggiore o uguale a %1 caratteri. Gli spazi inziali e finali verranno ignorati."
 "Please enter the same value again.","I valori dei due campi devono coincidere."
+" Example: "," Esempio: ",module,Magento_Checkout

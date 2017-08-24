@@ -1566,7 +1566,7 @@ Category,Categoria,module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 non estende \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","Il filtro deve essere un oggetto. Per favore imposta il filtro corretto.",module,Magento_Catalog
 "Clear Price","Pulisci Prezzo",module,Magento_Catalog
-"%1 and above","%1 e sopra",module,Magento_Catalog
+"%1 and above","%1 e oltre",module,Magento_Catalog
 "The filters must be an array.","I filtri devono essere un array.",module,Magento_Catalog
 "Product was not registered","Product was not registered",module,Magento_Catalog
 "Store was not registered","Store was not registered",module,Magento_Catalog
@@ -1773,7 +1773,7 @@ Backorders,Backorders,module,Magento_Catalog
 "Sort Custom Option","Ordina opzioni personalizzate",module,Magento_Catalog
 "Item Price","Prezzo Articolo",module,Magento_Catalog
 Action,Azione,module,Magento_Catalog
-"and above","e sopra",module,Magento_Catalog
+"and above","e oltre",module,Magento_Catalog
 "Delete Tier","Elimina fascia",module,Magento_Catalog
 "Product In Websites","Prodotto In siti Web",module,Magento_Catalog
 "(Copy data from: %1)","(Copia dati da: %1)",module,Magento_Catalog
@@ -2315,7 +2315,7 @@ Relevance,Rilevanza,module,Magento_CatalogSearch
 "%1 and greater","%1 e maggiore",module,Magento_CatalogSearch
 "up to %1","fino a %1",module,Magento_CatalogSearch
 Category,Categoria,module,Magento_CatalogSearch
-"%1 and above","%1 e sopra",module,Magento_CatalogSearch
+"%1 and above","%1 e oltre",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_CatalogSearch
 "Bucket does not exist","Bucket does not exist",module,Magento_CatalogSearch

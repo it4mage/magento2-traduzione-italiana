@@ -19,7 +19,7 @@
         "magento/framework": "100.*"
     },
     "type": "magento2-language",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "autoload": {
         "files": [
             "registration.php"

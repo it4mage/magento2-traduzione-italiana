@@ -1819,7 +1819,7 @@ Compare,Confronta,module,Magento_Catalog
 "Clear All","Cancella tutto",module,Magento_Catalog
 Prev,Prec,module,Magento_Catalog
 Next,Successivo,module,Magento_Catalog
-"We can't find products matching the selection.","Nessun prodotto corrispondete alla selezione è stato trovato.",module,Magento_Catalog
+"We can't find products matching the selection.","Nessun prodotto corrispondente alla selezione è stato trovato.",module,Magento_Catalog
 "Add to Compare","Confronta",module,Magento_Catalog
 "Learn More","Scopri di più",module,Magento_Catalog
 "We found other products you might like!","Abbiamo trovato altri prodotti che ti potrebbero interessare!",module,Magento_Catalog

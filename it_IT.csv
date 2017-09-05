@@ -12381,3 +12381,4 @@ Cart,Carrello
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","La lunghezza minima di questo campo deve essere maggiore o uguale a %1 caratteri. Gli spazi inziali e finali verranno ignorati."
 "Please enter the same value again.","I valori dei due campi devono coincidere."
 " Example: "," Esempio: ",module,Magento_Checkout
+"You will be charged by an extra fee of %1 (+%2 taxes)","Sarà applicato un sovrapprezzo di %1 (+%2 IVA)"

@@ -1155,7 +1155,7 @@ Separately,Separatamente,module,Magento_Bundle
 "The required options you selected are not available.","Le opzioni necessarie che hai selezionato non sono disponibili.",module,Magento_Bundle
 "Please select all required options.","Per favore seleziona tutte le opzioni necessarie.",module,Magento_Bundle
 "We can't add this item to your shopping cart right now.","Al momento è impossibile aggiungere questo articolo al carrello.",module,Magento_Bundle
-N/A,N/D,module,Magento_Bundle
+N/A,-,module,Magento_Bundle
 Percent,Percentuale,module,Magento_Bundle
 "We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Bundle
 Cancel,Annulla,module,Magento_Bundle
@@ -1425,7 +1425,7 @@ Home,Home,module,Magento_Catalog
 "Go to Home Page","Vai alla Home Page",module,Magento_Catalog
 "Subscribe to RSS Feed","Iscriviti al Feed RSS",module,Magento_Catalog
 "Products Comparison List","Lista di confronto prodotti",module,Magento_Catalog
-N/A,N/D,module,Magento_Catalog
+N/A,,module,Magento_Catalog
 AM,AM,module,Magento_Catalog
 PM,PM,module,Magento_Catalog
 "-- Please Select --","-- Seleziona --",module,Magento_Catalog
@@ -4854,7 +4854,7 @@ Yes,Sì,module,Magento_GiftCard
 No,No,module,Magento_GiftCard
 "Gift Card Is Redeemable","La gift card è rimborsabile",module,Magento_GiftCard
 "We cannot create this gift card.","Non è possibile creare questa gift card.",module,Magento_GiftCard
-N/A,N/D,module,Magento_GiftCard
+N/A,-,module,Magento_GiftCard
 "Gift Card Accounts","Account Gift Card",module,Magento_GiftCard
 "Duplicate amount found.","Importi duplicati trovati.",module,Magento_GiftCard
 "Something went wrong while preparing the gift card.","Qualcosa è andato storto durante la preparazione della gift card.",module,Magento_GiftCard
@@ -5853,7 +5853,7 @@ Back,Indietro,module,Magento_Invitation
 "Send Invitation","Invia invito",module,Magento_Invitation
 General,Generale,module,Magento_Invitation
 "Default from System Configuration","Predefinito dalle Configurazioni di Sistema",module,Magento_Invitation
-N/A,N/D,module,Magento_Invitation
+N/A,-,module,Magento_Invitation
 "Status History","Cronologia Status",module,Magento_Invitation
 Customers,Clienti,module,Magento_Invitation
 "Order Conversion Rate","Tasso di conversione degli ordini",module,Magento_Invitation
@@ -6012,7 +6012,7 @@ Back,Indietro,module,Magento_Logging
 "Value After Change","Valore dopo modifica",module,Magento_Logging
 "No changes","Nessun cambiamento",module,Magento_Logging
 "The item was deleted","L'elemento è stato eliminato",module,Magento_Logging
-N/A,N/D,module,Magento_Logging
+N/A,-,module,Magento_Logging
 "All Users","Tutti gli utenti",module,Magento_Logging
 "Admin Actions Log","Log azioni Admin",module,Magento_Logging
 "Admin Actions Archive","Archivio azioni admin",module,Magento_Logging
@@ -6580,7 +6580,7 @@ Subscribe,Iscriviti,module,Magento_Newsletter
 "Newsletter subscription confirmation","Newsletter subscription confirmation",module,Magento_Newsletter
 "Thank you for subscribing to our newsletter.","Grazie per esserti iscritto alla nostra newsletter.",module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Per iniziare a ricevere la newsletter, è prima necessario confermare l'abbonamento cliccando sul seguente link:",module,Magento_Newsletter
-"Newsletter subscription success","Newsletter subscription success",module,Magento_Newsletter
+"Newsletter subscription success","Iscrizione avventuta con successo",module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","Sei stato iscritto alla nostra newsletter.",module,Magento_Newsletter
 "Newsletter unsubscription success","Newsletter unsubscription success",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","Sei stato cancellato dalla newsletter.",module,Magento_Newsletter
@@ -6726,7 +6726,7 @@ Import,Importa,module,Magento_OfflineShipping
 Month,Mese,module,Magento_Payment
 Year,Anno,module,Magento_Payment
 "We cannot retrieve the payment info model object.","Non è possibile recuperare l'oggetto del modello del metodo di pagamento.",module,Magento_Payment
-N/A,N/D,module,Magento_Payment
+N/A,-,module,Magento_Payment
 "Credit Card Type","Tipo di carta di credito",module,Magento_Payment
 "Credit Card Number","Numero carta di credito",module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","Numero di emissione Switch/Solo/Maestro",module,Magento_Payment
@@ -6786,7 +6786,7 @@ Email,Email,module,Magento_Paypal
 "Reference ID","ID di riferimento",module,Magento_Paypal
 Status,Status,module,Magento_Paypal
 Created,Creato,module,Magento_Paypal
-N/A,N/D,module,Magento_Paypal
+N/A,-,module,Magento_Paypal
 Updated,Aggiornato,module,Magento_Paypal
 Back,Indietro,module,Magento_Paypal
 "Are you sure you want to do this?","Sei sicuro di che voler fare questo?",module,Magento_Paypal
@@ -7594,7 +7594,7 @@ Email,Email,module,Magento_Reminder
 No,No,module,Magento_Reminder
 Yes,Sì,module,Magento_Reminder
 Coupon,Coupon,module,Magento_Reminder
-N/A,N/D,module,Magento_Reminder
+N/A,-,module,Magento_Reminder
 "Coupon Use Limit","Limite di utilizzo del coupon",module,Magento_Reminder
 "Coupon Use Per Customer","Utilizzo del coupon per cliente",module,Magento_Reminder
 "Emails Sent","Email inviate",module,Magento_Reminder
@@ -8837,7 +8837,7 @@ Discount,Sconto,module,Magento_Sales
 Back,Indietro,module,Magento_Sales
 Fetch,Fetch,module,Magento_Sales
 "Transaction # %1 | %2","Transazione # %1 | %2",module,Magento_Sales
-N/A,N/D,module,Magento_Sales
+N/A,-,module,Magento_Sales
 Key,Chiave,module,Magento_Sales
 Value,Valore,module,Magento_Sales
 "We found an invalid entity model.","Abbiamo trovato un entity model non valido.",module,Magento_Sales
@@ -10178,7 +10178,7 @@ Status:,Status:,module,Magento_Shipping
 "Shipped or billed on:","Spediti o fatturati il:",module,Magento_Shipping
 "Service Type:","Tipo di servizio:",module,Magento_Shipping
 Weight:,Peso:,module,Magento_Shipping
-N/A,N/D,module,Magento_Shipping
+N/A,-,module,Magento_Shipping
 "Track history","Cronologia tracciamento",module,Magento_Shipping
 Location,Location,module,Magento_Shipping
 Date,Data,module,Magento_Shipping

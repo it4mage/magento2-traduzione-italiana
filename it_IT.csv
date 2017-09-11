@@ -6582,7 +6582,7 @@ Subscribe,Iscriviti,module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Per iniziare a ricevere la newsletter, è prima necessario confermare l'abbonamento cliccando sul seguente link:",module,Magento_Newsletter
 "Newsletter subscription success","Iscrizione avventuta con successo",module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","Sei stato iscritto alla nostra newsletter.",module,Magento_Newsletter
-"Newsletter unsubscription success","Newsletter unsubscription success",module,Magento_Newsletter
+"Newsletter unsubscription success","Hai effettuato la disiscrizione dalla newsletter",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","Sei stato cancellato dalla newsletter.",module,Magento_Newsletter
 "Newsletter Template","Templates Newsletter",module,Magento_Newsletter
 "Newsletter Section","Sezione newsletter",module,Magento_Newsletter

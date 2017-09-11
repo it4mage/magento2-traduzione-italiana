@@ -9297,7 +9297,7 @@ Search,Cerca,module,Magento_Sales
 "Invoice for your %store_name order","Fattura per il tuo ordine %store_name",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","La fattura #%invoice_id per l'ordine #%order_id",module,Magento_Sales
 "Update to your %store_name invoice","%store_name - Aggiornamenti sulla tua fattura",module,Magento_Sales
-"Your %store_name order confirmation","%store_name - Conferma d'ordine",module,Magento_Sales
+"Your %store_name order confirmation","%store_name - Ordine confermato",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Una volta che il pacco sarà spedito, ti invieremo il numero di tracciamento.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Il tuo ordine <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
@@ -12333,7 +12333,7 @@ Footer,Footer,theme,frontend/Magento/luma
 "Invoice for your %store_name order","%store_name - Fattura per il tuo ordine",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","La fattura #%invoice_id per l'ordine #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","%store_name - Aggiornamenti sulla tua fattura",theme,frontend/Magento/luma
-"Your %store_name order confirmation","%store_name - Conferma d'ordine",theme,frontend/Magento/luma
+"Your %store_name order confirmation","%store_name - Ordine confermato",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Quando il pacco sarà spedito, ti invieremo il numero di tracking.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Il tuo ordine <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
@@ -12382,3 +12382,5 @@ Cart,Carrello
 "Please enter the same value again.","I valori dei due campi devono coincidere."
 " Example: "," Esempio: ",module,Magento_Checkout
 "You will be charged by an extra fee of %1 (+%2 taxes)","Sarà applicato un sovrapprezzo di %1 (+%2 IVA)"
+"Cash On Delivery Amount","Sovrapprezzo per pagamento alla consegna"
+"Cash On Delivery Tax","IVA sul pagamento alla consegna"

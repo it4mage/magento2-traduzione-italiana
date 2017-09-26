@@ -7964,7 +7964,7 @@ Product,Prodotto,module,Magento_Review
 "Product Rating","Valutazione del prodotto",module,Magento_Review
 Status,Status,module,Magento_Review
 Visibility,Visibilità,module,Magento_Review
-Nickname,Nickname,module,Magento_Review
+Nickname,Nome,module,Magento_Review
 "Summary of Review","Riepilogo recensione",module,Magento_Review
 Review,Recensione,module,Magento_Review
 Previous,Precedente,module,Magento_Review
@@ -8095,7 +8095,7 @@ ID,ID,module,Magento_ReviewStaging
 Created,Creato,module,Magento_ReviewStaging
 Status,Status,module,Magento_ReviewStaging
 Title,Titolo,module,Magento_ReviewStaging
-Nickname,Nickname,module,Magento_ReviewStaging
+Nickname,Nome,module,Magento_ReviewStaging
 Review,Recensione,module,Magento_ReviewStaging
 Visibility,Visibilità,module,Magento_ReviewStaging
 Type,Tipo,module,Magento_ReviewStaging
@@ -12386,3 +12386,4 @@ Cart,Carrello
 "Cash On Delivery Tax","IVA sul pagamento alla consegna"
 "Cash on delivery","Contrassegno (pagamento alla consegna)"
 "An error occurred on the server. Please try to place the order again.","Si è verificato un errore sul server. Per favore riprova più tardi."
+"Please select one of each of the ratings above.","Assegna una valutazione ad ogni parametro."

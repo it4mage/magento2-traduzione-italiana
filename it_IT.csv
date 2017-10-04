@@ -3631,7 +3631,7 @@ Password:,Password:,module,Magento_Customer
 "Thanks,<br>%store_name","Grazie, <br>%store_name",module,Magento_Customer
 "Your %store_name email and password has been changed","Your %store_name email and password has been changed",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Abbiamo ricevuto una richiesta per modificare le seguenti informazioni, associate al tuo account presso %store_name: email.",module,Magento_Customer
-"Reset your %store_name password","Reset your %store_name password",module,Magento_Customer
+"Reset your %store_name password","Reimposta la tua password su %store_name",module,Magento_Customer
 "There was recently a request to change the password for your account.","C'è stata recentemente una richiesta per modificare la password per il tuo account.",module,Magento_Customer
 "If you requested this change, set a new password here:","Se hai richiesto questa modifica, imposta una nuova password qui:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Se non hai fatto questa richiesta, è possibile ignorare questa email e la tua password rimarrà immutata.",module,Magento_Customer
@@ -6975,7 +6975,7 @@ Dispute,Controversia,module,Magento_Paypal
 "No match","Nessuna corrispondenza",module,Magento_Paypal
 "N/A. Not processed","N/D. Non elaborato",module,Magento_Paypal
 "N/A. Service not supported","N/D. Servizio non supportato",module,Magento_Paypal
-"N/A. Service not available","N/D. Service non disponibile",module,Magento_Paypal
+"N/A. Service not available","N/D. Servizio non disponibile",module,Magento_Paypal
 "N/A. No response","N/D. Nessuna risposta",module,Magento_Paypal
 "Matched (CVV2)","Corrispondente (CVV2)",module,Magento_Paypal
 "N/A. The merchant has not implemented CVV2 code handling","N/D. Il commerciante non ha implementato la gestione del codice CVV2",module,Magento_Paypal

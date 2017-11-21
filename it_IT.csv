@@ -3521,7 +3521,7 @@ Visitor,Visitatore,module,Magento_Customer
 Customer,Cliente,module,Magento_Customer
 "No item specified.","Nessun elemento specificato.",module,Magento_Customer
 "Are you sure you want to remove this item?","Sei sicuro di voler eliminare questo elemento?",module,Magento_Customer
-"Personal Information","Informationi personali",module,Magento_Customer
+"Personal Information","Informazioni personali",module,Magento_Customer
 "Last Logged In:","Ultimo accesso:",module,Magento_Customer
 "Last Logged In (%1):","Ultimo accesso in (%1):",module,Magento_Customer
 "Account Lock:","Blocco dell'account:",module,Magento_Customer
@@ -3948,7 +3948,7 @@ Email,Email,module,Magento_CustomerCustomAttributes
 "Password Strength","Password Strength",module,Magento_CustomerCustomAttributes
 "No Password","No Password",module,Magento_CustomerCustomAttributes
 "Confirm New Password","Conferma nuova Password",module,Magento_CustomerCustomAttributes
-"Personal Information","Informationi personali",module,Magento_CustomerCustomAttributes
+"Personal Information","Informazioni personali",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Iscriviti alla Newsletter",module,Magento_CustomerCustomAttributes
 "Address Information","Informazioni indirizzo",module,Magento_CustomerCustomAttributes
 "Sign-in Information","Informazioni di accesso",module,Magento_CustomerCustomAttributes

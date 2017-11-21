@@ -9282,7 +9282,7 @@ Close,Chiudi,module,Magento_Sales
 "Recently Ordered","Recentemente ordinati",module,Magento_Sales
 "Add to Cart","Aggiungi al Carrello",module,Magento_Sales
 Search,Cerca,module,Magento_Sales
-"Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
+"Credit memo for your %store_name order","Nota di credito per il tuo ordine su %store_name",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Grazie per il tuo ordine da %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","È possibile controllare lo status del tuo ordine accedendo <a href=""%account_url"">al tuo account</a>.",module,Magento_Sales
@@ -9294,17 +9294,17 @@ Search,Cerca,module,Magento_Sales
 "Shipping Info","Informazioni di spedizione",module,Magento_Sales
 "Update to your %store_name credit memo","Update to your %store_name credit memo",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Il tuo ordine #%increment_id è stato aggiornato con lo status di <strong>%order_status</strong>.",module,Magento_Sales
-"Invoice for your %store_name order","Invoice for your %store_name order",module,Magento_Sales
+"Invoice for your %store_name order","Fattura per il tuo ordine su %store_name",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","La fattura #%invoice_id per l'ordine #%order_id",module,Magento_Sales
 "Update to your %store_name invoice","Update to your %store_name invoice",module,Magento_Sales
-"Your %store_name order confirmation","Your %store_name order confirmation",module,Magento_Sales
+"Your %store_name order confirmation","%store_name: Conferma ordine",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Una volta che il pacco sarà spedito, ti invieremo il numero di tracciamento.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Il tuo ordine <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Effettuato il <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.","Una volta che il pacco sarà spedito, ti invieremo un'email con un link per tracciare il tuo ordine.",module,Magento_Sales
 "Update to your %store_name order","Update to your %store_name order",module,Magento_Sales
-"Your %store_name order has shipped","Your %store_name order has shipped",module,Magento_Sales
+"Your %store_name order has shipped","Il tuo ordine su %store_name è stato spedito",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","La conferma di spedizione è qua sotto. Grazie ancora per l'acquisto.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","La tua spedizione #%shipment_id per l'ordine #%order_id",module,Magento_Sales
 "Update to your %store_name shipment","Update to your %store_name shipment",module,Magento_Sales
@@ -12319,7 +12319,7 @@ Footer,Footer,theme,frontend/Magento/luma
 "Customer Service","Assistenza Clienti",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Orari di apertura: <br/> <span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Nota di credito per il tuo ordine su %store_name",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Grazie per il tuo ordine da %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","È possibile controllare lo stato del tuo ordine accedendo <a href=""%account_url"">al tuo account</a>.",theme,frontend/Magento/luma
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Se hai domande sul tuo ordine, puoi inviare una email a <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
@@ -12330,16 +12330,16 @@ Footer,Footer,theme,frontend/Magento/luma
 "Shipping Method","Metodo di Spedizione",theme,frontend/Magento/luma
 "Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Il tuo ordine #%increment_id è stato aggiornato allo stato di <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Fattura per il tuo ordine su %store_name",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","La fattura #%invoice_id per l'ordine #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"Your %store_name order confirmation","%store_name: Conferma ordine",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Quando il pacco sarà spedito, ti invieremo il numero di tracking.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Il tuo ordine <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Effettuato il <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Il tuo ordine su %store_name è stato spedito",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","La conferma di spedizione è qua sotto. Grazie ancora per l'acquisto.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","La tua spedizione #%shipment_id per l'ordine #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma

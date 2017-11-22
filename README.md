@@ -12,9 +12,9 @@ To install this translation with composer you need to have [Composer](https://ge
 
 Update the composer.json file:
 ```
-“require”: {
+"require": {
 	...
-	“antoniocarboni/magento2-traduzione-italiana”:"dev-master”
+	"antoniocarboni/magento2-traduzione-italiana":"dev-master"
 },
 
  "repositories": [
@@ -41,7 +41,7 @@ https://crowdin.com/project/magento-2
 
 # Contribute
 You can help to improve the translation suggesting or vote the translations :
-[https://crowdin.com/project/magento-2/it]#
+[https://crowdin.com/project/magento-2/it#]
 
 
 
@@ -60,9 +60,9 @@ Questa è la traduzione italiana ufficiale generata dal [progetto di traduzione 
 Per installare Magento2 tramite composer è necessario avere lo stesso [Composer](https://getcomposer.org) installato e funzionante.
 Aggiorna il tuo file composer.json:
 ```
-“require”: {
+"require": {
 	...
-	“antoniocarboni/magento2-traduzione-italiana”:"dev-master”
+	"antoniocarboni/magento2-traduzione-italiana":"dev-master"
 },
 
  "repositories": [
@@ -90,7 +90,7 @@ https://crowdin.com/project/magento-2
 
 # Come Contribuire
 Per aiutarci a migliorare la traduzione o votare le stringhe già tradotte:
-[https://crowdin.com/project/magento-2/it]#
+[https://crowdin.com/project/magento-2/it#]
 
 
 

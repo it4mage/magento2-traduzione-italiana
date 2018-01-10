@@ -9407,7 +9407,7 @@ Phone,Telefono,module,Magento_Sales
 "ZIP/Post Code","Codice postale",module,Magento_Sales
 "Signed-up Point","Punti iscrizione",module,Magento_Sales
 Website,Website,module,Magento_Sales
-order-header,intestazione-ordine,module,Magento_Sales
+order-header,order-header,module,Magento_Sales
 "Bill-to Name","Fattura a nome",module,Magento_Sales
 Created,Creato,module,Magento_Sales
 "Invoice Date","Data fattura",module,Magento_Sales

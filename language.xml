@@ -8,4 +8,5 @@
     <code>it_IT</code>
     <vendor>antoniocarboni</vendor>
     <package>it_it</package>
+    <sort_order>100</sort_order>
 </language>

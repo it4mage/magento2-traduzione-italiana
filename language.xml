@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <!--
-* Copyright © 2016 AntonioCarboni.
+* Copyright © 2016-2018 AntonioCarboni.
     http://antoniocarboni.com
 -->
 
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>it_IT</code>
-    <vendor>antoniocarboni</vendor>
+    <vendor>it4mage</vendor>
     <package>it_it</package>
     <sort_order>100</sort_order>
 </language>

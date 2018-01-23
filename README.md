@@ -7,7 +7,8 @@ Installation Instructions
 -------------------------
 Add the dependency to your `composer.json` with this command:
 
-    composer require it4mage/magento2-traduzione-italiana dev-master
+    composer require it4mage/magento2-traduzione-italiana
+    php bin/magento cache:clean
 
 Support
 -------

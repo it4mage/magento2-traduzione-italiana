@@ -4,4 +4,3 @@
     'itformage_it_it',
     __DIR__
 );
-?>

@@ -1190,8 +1190,8 @@ Refunded,Rimborsati,module,Magento_Bundle
 Canceled,Cancellato,module,Magento_Bundle
 "As low as","A partire da",module,Magento_Bundle
 "Regular Price","Prezzo normale",module,Magento_Bundle
-From,Dal,module,Magento_Bundle
-To,Al,module,Magento_Bundle
+From,Da,module,Magento_Bundle
+To,A,module,Magento_Bundle
 "Buy %1 with %2 discount each","Acquista %1 con %2 di sconto ciascuno",module,Magento_Bundle
 "Go back to product details","Torna alla scheda prodotto",module,Magento_Bundle
 "Customize and Add to Cart","Personalizza e Aggiungi al carrello",module,Magento_Bundle

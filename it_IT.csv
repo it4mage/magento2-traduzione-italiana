@@ -12387,3 +12387,4 @@ Cart,Carrello
 "Cash on delivery","Contrassegno (pagamento alla consegna)"
 "An error occurred on the server. Please try to place the order again.","Si è verificato un errore sul server. Per favore riprova più tardi."
 "Please select one of each of the ratings above.","Assegna una valutazione ad ogni parametro."
+"Please select one of the options.","Seleziona una delle opzioni.",module,Magento_Bundle

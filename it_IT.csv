@@ -3605,7 +3605,7 @@ Password,Password,module,Magento_Customer
 Gender,Genere,module,Magento_Customer
 Name,Nome,module,Magento_Customer
 "Tax/VAT number","Partita IVA",module,Magento_Customer
-"Welcome to %store_name","Welcome to %store_name",module,Magento_Customer
+"Welcome to %store_name","Benvenuto su %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Benvenuto su %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",module,Magento_Customer

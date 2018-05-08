@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MagicentoSettings">
+    <option name="pathToMage" value="$USER_HOME$/Vagrant/BorasoShop/www/borasoshop/app/Mage.php" />
+    <option name="enabled" value="false" />
+    <option name="pathToPhp" value="" />
+    <option name="urlToMagento" value="" />
+    <option name="packages" value="" />
+    <option name="themes" value="" />
+    <option name="basicAuthUsername" value="" />
+    <option name="basicAuthPassword" value="" />
+    <option name="pathsToMagentoSerialized" value="" />
+    <option name="customSignatures" value="Mage_Sales_Model_Order.getPaymentsCollection = Mage_Sales_Model_Resource_Order_Payment_Collection;;MODEL=sales/order.getPaymentsCollection==RESOURCEMODEL=sales/order_payment_collection" />
+    <option name="d" value="GCSeexkCQysQJFjJQs/fxLQsKSOMLkC1995BQ0VjGKhKfc45jFWdG+HUWkL0LkNoYz2tZmsoXPTe&#13;&#10;YKzyF8eOsYNJlohgq3QReKDNfrlx5HJKixoI5fJtSq+AnvzYYpHLkH0XR/fLM+b+wM4StwRqdLgn&#13;&#10;sJ2HYaYLzxDeXR+NDsI=&#13;&#10;" />
+  </component>
+</project>

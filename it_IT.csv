@@ -7434,7 +7434,7 @@ User,Utente,module,Magento_Paypal
 "You saved the alert subscription.","Hai salvato l'iscrizione agli avvisi.",module,Magento_ProductAlert
 "There are not enough parameters.","Non ci sono parametri sufficienti.",module,Magento_ProductAlert
 "We can't update the alert subscription right now.","Non è possibile aggiornare l'iscrizione agli avvisi in questo momento.",module,Magento_ProductAlert
-"Alert subscription has been saved.","L'iscrizione agli avvisi è stato salvato.",module,Magento_ProductAlert
+"Alert subscription has been saved.","L'iscrizione agli avvisi è stata salvata.",module,Magento_ProductAlert
 "You deleted the alert subscription.","Hai eliminato l'iscrizione agli avvisi.",module,Magento_ProductAlert
 "We can't find the product.","Impossibile trovare il prodotto.",module,Magento_ProductAlert
 "You will no longer receive price alerts for this product.","Non riceverai più avvisi di prezzo per questo prodotto.",module,Magento_ProductAlert

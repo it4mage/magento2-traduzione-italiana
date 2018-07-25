@@ -23,7 +23,7 @@
         "magento/framework": "100.0.*|100.1.*|101.0.*"
     },
     "type": "magento2-language",
-    "version": "3.0.4",
+    "version": "3.0.5",
     "autoload": {
         "files": [
             "registration.php"

@@ -1190,8 +1190,8 @@ Refunded,Rimborsati,module,Magento_Bundle
 Canceled,Cancellato,module,Magento_Bundle
 "As low as","A partire da",module,Magento_Bundle
 "Regular Price","Prezzo normale",module,Magento_Bundle
-From,Dal,module,Magento_Bundle
-To,Al,module,Magento_Bundle
+From,Da,module,Magento_Bundle
+To,A,module,Magento_Bundle
 "Buy %1 with %2 discount each","Acquista %1 con %2 di sconto ciascuno",module,Magento_Bundle
 "Go back to product details","Torna alla scheda prodotto",module,Magento_Bundle
 "Customize and Add to Cart","Personalizza e Aggiungi al carrello",module,Magento_Bundle
@@ -3631,7 +3631,7 @@ Password:,Password:,module,Magento_Customer
 "Thanks,<br>%store_name","Grazie, <br>%store_name",module,Magento_Customer
 "Your %store_name email and password has been changed","Your %store_name email and password has been changed",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Abbiamo ricevuto una richiesta per modificare le seguenti informazioni, associate al tuo account presso %store_name: email.",module,Magento_Customer
-"Reset your %store_name password","Reset your %store_name password",module,Magento_Customer
+"Reset your %store_name password","Reimposta la tua password su %store_name",module,Magento_Customer
 "There was recently a request to change the password for your account.","C'è stata recentemente una richiesta per modificare la password per il tuo account.",module,Magento_Customer
 "If you requested this change, set a new password here:","Se hai richiesto questa modifica, imposta una nuova password qui:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Se non hai fatto questa richiesta, è possibile ignorare questa email e la tua password rimarrà immutata.",module,Magento_Customer
@@ -6975,7 +6975,7 @@ Dispute,Controversia,module,Magento_Paypal
 "No match","Nessuna corrispondenza",module,Magento_Paypal
 "N/A. Not processed","N/D. Non elaborato",module,Magento_Paypal
 "N/A. Service not supported","N/D. Servizio non supportato",module,Magento_Paypal
-"N/A. Service not available","N/D. Service non disponibile",module,Magento_Paypal
+"N/A. Service not available","N/D. Servizio non disponibile",module,Magento_Paypal
 "N/A. No response","N/D. Nessuna risposta",module,Magento_Paypal
 "Matched (CVV2)","Corrispondente (CVV2)",module,Magento_Paypal
 "N/A. The merchant has not implemented CVV2 code handling","N/D. Il commerciante non ha implementato la gestione del codice CVV2",module,Magento_Paypal
@@ -7434,7 +7434,7 @@ User,Utente,module,Magento_Paypal
 "You saved the alert subscription.","Hai salvato l'iscrizione agli avvisi.",module,Magento_ProductAlert
 "There are not enough parameters.","Non ci sono parametri sufficienti.",module,Magento_ProductAlert
 "We can't update the alert subscription right now.","Non è possibile aggiornare l'iscrizione agli avvisi in questo momento.",module,Magento_ProductAlert
-"Alert subscription has been saved.","L'iscrizione agli avvisi è stato salvato.",module,Magento_ProductAlert
+"Alert subscription has been saved.","L'iscrizione agli avvisi è stata salvata.",module,Magento_ProductAlert
 "You deleted the alert subscription.","Hai eliminato l'iscrizione agli avvisi.",module,Magento_ProductAlert
 "We can't find the product.","Impossibile trovare il prodotto.",module,Magento_ProductAlert
 "You will no longer receive price alerts for this product.","Non riceverai più avvisi di prezzo per questo prodotto.",module,Magento_ProductAlert
@@ -9407,7 +9407,7 @@ Phone,Telefono,module,Magento_Sales
 "ZIP/Post Code","Codice postale",module,Magento_Sales
 "Signed-up Point","Punti iscrizione",module,Magento_Sales
 Website,Website,module,Magento_Sales
-order-header,intestazione-ordine,module,Magento_Sales
+order-header,order-header,module,Magento_Sales
 "Bill-to Name","Fattura a nome",module,Magento_Sales
 Created,Creato,module,Magento_Sales
 "Invoice Date","Data fattura",module,Magento_Sales
@@ -12387,4 +12387,4 @@ Cart,Carrello
 "Cash on delivery","Contrassegno (pagamento alla consegna)"
 "An error occurred on the server. Please try to place the order again.","Si è verificato un errore sul server. Per favore riprova più tardi."
 "Please select one of each of the ratings above.","Assegna una valutazione ad ogni parametro."
-"Go to cart","Vai al carrello"
+"Please select one of the options.","Seleziona una delle opzioni.",module,Magento_Bundle

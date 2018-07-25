@@ -1,99 +1,26 @@
-# magento2-traduzione-italiana
-Magento 2 - Traduzione Italiana ufficiale
+it4mage Italy Setup
+=====================
+Italian localization for Magento 2.x
+Please, use it on your Magento projects with Composer and improve it with our contribution process (see Contributing).
 
+Installation Instructions
+-------------------------
+Add the dependency to your `composer.json` with this command:
 
-# Magento2 Italian Language Pack (it_IT)
-This is a Italian Localization Pack generated from [crowdin official Magento2 translations project](https://crowdin.com/project/magento-2).
+    composer require it4mage/magento2-traduzione-italiana
+    php bin/magento cache:clean
 
+Support
+-------
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/it4mage/magento2-traduzione-italiana/issues).
 
-# Installation
-## Via composer
-To install this translation with composer you need to have [Composer](https://getcomposer.org) installed.
+Contribution
+------------
+Any contribution is highly appreciated.
+You can fork [the repository](https://github.com/it4mage/magento2-traduzione-italiana) and use your own fork in your project (see [Composer documentation](https://getcomposer.org/doc/05-repositories.md#loading-a-package-from-a-vcs-repository) for this).
+When you're ready to submit your changes open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests) with your fork.
+Please do it (especially for translations), so we can all take advantage of open source community work.
 
-Update the composer.json file:
-```
-“require”: {
-	...
-	“antoniocarboni/magento2-traduzione-italiana”:"dev-master”
-},
-
- "repositories": [
-    { "type": "vcs", "url":  "https://github.com/antoniocarboni/magento2-traduzione-italiana" }
-    ],
-    
-```
-and via SSH:
-
-```
-cd <magento2 path>
-composer update
-bin/magento setup:static-content:deploy it_IT
-bin/magento cache:clean
-```
-
-## Manually
-* Download the translations from crowdin:
-https://crowdin.com/project/magento-2
-* and paste it in Magento root
-* Download the files package from this repository and copy in app/i18n/antoniocarboni/it_It/.
-
-
-
-# Contribute
-You can help to improve the translation suggesting or vote the translations :
-[https://crowdin.com/project/magento-2/it]#
-
-
-
-=======================================================================================
-
-# magento2-traduzione-italiana
-Magento 2 - Traduzione Italiana ufficiale
-
-
-# Magento2 Italian Language Pack (it_IT)
-Questa è la traduzione italiana ufficiale generata dal [progetto di traduzione ufficiale di Magento 2 su crowdin](https://crowdin.com/project/magento-2).
-
-
-# Installazione
-## tramite composer
-Per installare Magento2 tramite composer è necessario avere lo stesso [Composer](https://getcomposer.org) installato e funzionante.
-Aggiorna il tuo file composer.json:
-```
-“require”: {
-	...
-	“antoniocarboni/magento2-traduzione-italiana”:"dev-master”
-},
-
- "repositories": [
-    { "type": "vcs", "url":  "https://github.com/antoniocarboni/magento2-traduzione-italiana" }
-    ],
-    
-```
-e tramite riga di comando:
-
-```
-cd <magento2 path>
-composer update
-bin/magento setup:static-content:deploy it_IT
-bin/magento cache:clean
-```
-
-
-## Manualmente
-* Scarica la traduzione da caricandola da crowdin indirizzo:
-https://crowdin.com/project/magento-2
-* Scarica l’intera traduzione e copiala nella root di Magento.
-* Scarica il pacchetto di registrazione della traduzione da questo repository e posizionalo in app/i18n/antoniocarboni/it_It/.
-
-
-
-# Come Contribuire
-Per aiutarci a migliorare la traduzione o votare le stringhe già tradotte:
-[https://crowdin.com/project/magento-2/it]#
-
-## Note di compilazione
-1. Il language package non deve contenere traduzioni dipendenti dal contesto; per le frasi che si prevede possano essere diverse a seconda del tema o progetto utilizzeremo il dizionario del tema.
-Un esempio: "VAT number" non è stato tradotto in "P. IVA" perché alcuni progetti potrebbero richiederne la traduzione in "Partita Iva" oppure "Codice Fiscale o P. Iva".
-
-
+License
+-------
+[The OSL-3.0 License](http://opensource.org/licenses/OSL-3.0)

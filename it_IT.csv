@@ -7451,9 +7451,9 @@ Price:,Prezzo:,module,Magento_ProductAlert
 "Unsubscribe from all stock alerts","Annulla l'iscrizione a tutti gli avvisi di disponibilità prodotti",module,Magento_ProductAlert
 "Product alerts Cron error","Product alerts Cron error",module,Magento_ProductAlert
 "Product alerts cron warnings","Avvisi notifiche prodotto cron",module,Magento_ProductAlert
-"Products price changed alert","Products price changed alert",module,Magento_ProductAlert
+"Products price changed alert","Avviso cambiamento di prezzo dei prodotti",module,Magento_ProductAlert
 "%name,","%name,",module,Magento_ProductAlert
-"Products back in stock alert","Products back in stock alert",module,Magento_ProductAlert
+"Products back in stock alert","Avviso per prodotti tornati disponibili",module,Magento_ProductAlert
 "Product Alerts","Avvisi prodotto",module,Magento_ProductAlert
 "Allow Alert When Product Price Changes","Consenti avviso quando il prezzo del prodotto cambia",module,Magento_ProductAlert
 "Allow Alert When Product Comes Back in Stock","Consenti avviso quando il prodotto è nuovamente disponibile",module,Magento_ProductAlert

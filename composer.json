@@ -1,5 +1,5 @@
 {
-    "name": "it4mage/magento2-traduzione-italiana",
+    "name": "itfm/magento2-traduzione-italiana",
     "description": " Magento2 Italian Language Pack (it_IT) ",
     "homepage": "https://github.com/it4mage/magento2-traduzione-italiana",
     "license": [
@@ -12,7 +12,7 @@
         },
         {
             "name": "Antonio Carboni",
-            "homepage": "https://github.com/antoniocarboni"
+            "homepage": "htps://github.com/antoniocarboni"
         },
         {
             "name": "Magento2 traduzione italiana ",
@@ -23,6 +23,7 @@
         "magento/framework": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*"
     },
     "type": "magento2-language",
+    "version": "3.0.5",
     "autoload": {
         "files": [
             "registration.php"

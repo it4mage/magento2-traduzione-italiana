@@ -1819,7 +1819,7 @@ Compare,Confronta,module,Magento_Catalog
 "Clear All","Cancella tutto",module,Magento_Catalog
 Prev,Prec,module,Magento_Catalog
 Next,Successivo,module,Magento_Catalog
-"We can't find products matching the selection.","Nessun prodotto corrispondente alla selezione è stato trovato.",module,Magento_Catalog
+"We can't find products matching the selection.","Nessun prodotto corrispondete alla selezione è stato trovato.",module,Magento_Catalog
 "Add to Compare","Aggiungi al confronto",module,Magento_Catalog
 "Learn More","Scopri di più",module,Magento_Catalog
 "We found other products you might like!","Abbiamo trovato altri prodotti che ti potrebbero interessare!",module,Magento_Catalog
@@ -2437,6 +2437,7 @@ Template,Template,module,Magento_CatalogWidget
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 di default, se non impostato. Per aggiornare immediatamente, cancellare la cache dell'Output HTML dei blocchi.",module,Magento_CatalogWidget
 Conditions,Condizioni,module,Magento_CatalogWidget
 "Shopping Cart",Carrello,module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Sei sicuro di voler rimuovere il prodotto dal carrello?",module,Magento_Checkout
 "Invalid method: %1","Metodo non valido: %1",module,Magento_Checkout
 City,Città,module,Magento_Checkout
 Country,Paese,module,Magento_Checkout
@@ -3239,11 +3240,15 @@ Email,Email,module,Magento_CustomAttributeManagement
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","Codice attributo non valido. In questo campo utilizzare solo lettere (a-z), numeri (0-9) o underscore (_). Il primo carattere deve essere una lettera.",module,Magento_CustomAttributeManagement
 "Sign Out",Esci,module,Magento_Customer
 "Sign In",Accedi,module,Magento_Customer
+"Account Information","Informazioni Account"
 "You subscribe to our newsletter.","Ti sei iscritto alla nostra newsletter.",module,Magento_Customer
 "You don't subscribe to our newsletter.","Non sei iscritto alla nostra newsletter.",module,Magento_Customer
+"You are subscribed to our newsletter.","Sei iscritto alla nostra newsletter",module,Magento_Customer
+"You aren't subscribed to our newsletter.","Non sei iscritto alla nostra newsletter.",module,Magento_Customer
 "You have not set a default shipping address.","Non hai impostato un indirizzo di spedizione predefinito.",module,Magento_Customer
 "You have not set a default billing address.","Non hai impostato un indirizzo di fatturazione predefinito.",module,Magento_Customer
-"Address Book",Rubrica,module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Il login non è andato a buon fine oppure il tuo account è stato temporaneamente disattivato. Aspetta e riprova più tardi.",module,Magento_Customer
+"Address Book",Rubrica Indirizzi,module,Magento_Customer
 "Edit Address","Modifica l'indirizzo",module,Magento_Customer
 "Add New Address","Aggiungi nuovo indirizzo",module,Magento_Customer
 region,regione,module,Magento_Customer
@@ -3561,6 +3566,7 @@ Fax,Fax,module,Magento_Customer
 Address,Indirizzo,module,Magento_Customer
 "Street Address",Indirizzo,module,Magento_Customer
 "Street Address %1","Indirizzo %1",module,Magento_Customer
+"Street Address: Line %1","Indirizzo: riga %1",module,Magento_Customer
 "VAT Number","Partita Iva",module,Magento_Customer
 City,Città,module,Magento_Customer
 State/Province,Stato/Provincia,module,Magento_Customer
@@ -5038,7 +5044,7 @@ Expires:,"Scade il:",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","Importo gift card applicato all'ordine:",module,Magento_GiftCardAccount
 "You've been sent a gift from %store_name","You've been sent a gift from %store_name",module,Magento_GiftCardAccount
 "%name,","%name,",module,Magento_GiftCardAccount
-"You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","Hai ricevuto una gift card in regalo per l'uso su %store_name e ora è pronta per essere utilizzata per gli acquisti.",module,Magento_GiftCardAccount
+"You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","Hai inviato una gift card per l'uso su %store_name e ora è pronto per essere utilizzato per gli acquisti.",module,Magento_GiftCardAccount
 "Gift Card Code: %code","Codice del buono regalo: %code",module,Magento_GiftCardAccount
 "The card has a balance of %balance and can be used at","La carta ha un saldo di %balance e può essere utilizzata in",module,Magento_GiftCardAccount
 %store_name,%store_name,module,Magento_GiftCardAccount
@@ -6451,8 +6457,8 @@ Options,Opzioni,module,Magento_Multishipping
 "Failed Messages Lifetime","Durata dei messaggi di errore",module,Magento_MysqlMq
 "New Messages Lifetime","Durata nuovi messaggi",module,Magento_MysqlMq
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Nessun ID Applicazione New Relic configurato, non è è possibile continuare con il report degli eventi Cron",module,Magento_NewRelicReporting
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","L'integrazione con New Relic richiede l'agent newrelic-php5 che non è installato. 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","L'integrazione con New Relic richiede l'agent newrelic-php5 che non è installato.
 Ulteriori informazioni su come installare l'agent è disponibile <a target=""_blank"" href=""%1"">qui</a>.",module,Magento_NewRelicReporting
 "New Relic Reporting Section","Sezione report New Relic",module,Magento_NewRelicReporting
 "New Relic Reporting","Report New Relic",module,Magento_NewRelicReporting
@@ -6477,7 +6483,9 @@ Cron,Cron,module,Magento_NewRelicReporting
 "Unsubscribe Selected","Annulla l'iscrizione agli utenti selezionati",module,Magento_Newsletter
 Back,Indietro,module,Magento_Newsletter
 Reset,Reset,module,Magento_Newsletter
+"You are subscribed to ""General Subscription"".","Non sei iscritto alla ""Newsletter Generale""."
 "Preview Template","Anteprima template",module,Magento_Newsletter
+"We have saved your subscription."."Abbiamo salvato la tua iscrizione.",module,Magento_Newsletter
 "Save Newsletter","Salva Newsletter",module,Magento_Newsletter
 "Save and Resume","Salva e Ripristina",module,Magento_Newsletter
 "View Newsletter","Visualizza Newsletter",module,Magento_Newsletter
@@ -7244,10 +7252,10 @@ Manage,Gestisci,module,Magento_Paypal
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                         or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Perché pubblicizzare finanziamento?</a> <br/>
-                    <strong>Dai una spinta alle vendite mentre pubblicizzi un finanziamento.</strong> <br/> PayPal contribuisce a trasformare il navigatori in acquirenti con finanziamento 
-                    dal credito PayPal ®. I vostri clienti hanno più tempo per pagare, mentre vieni pagato – senza alcun costo aggiuntivo per te.     
-                    Utilizza il banner gratuito di PayPal che consente di pubblicizzare il finanziamento credito PayPal ® come opzione di pagamento quando i clienti fanno il checkout con PayPal. 
-                    Il programma pubblicitario di PayPal ha dimostrato di generare acquisti aggiuntivi, nonché di aumentare le dimensioni medie di acquisto del consumatore del 15% 
+                    <strong>Dai una spinta alle vendite mentre pubblicizzi un finanziamento.</strong> <br/> PayPal contribuisce a trasformare il navigatori in acquirenti con finanziamento
+                    dal credito PayPal ®. I vostri clienti hanno più tempo per pagare, mentre vieni pagato – senza alcun costo aggiuntivo per te.
+                    Utilizza il banner gratuito di PayPal che consente di pubblicizzare il finanziamento credito PayPal ® come opzione di pagamento quando i clienti fanno il checkout con PayPal.
+                    Il programma pubblicitario di PayPal ha dimostrato di generare acquisti aggiuntivi, nonché di aumentare le dimensioni medie di acquisto del consumatore del 15%
                     o più. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank""> Vedi i dettagli</a>.",module,Magento_Paypal
 "Publisher ID","ID Publisher",module,Magento_Paypal
 "Required to display a banner","Obbligatorio mostrare un banner",module,Magento_Paypal
@@ -7337,10 +7345,10 @@ User,Utente,module,Magento_Paypal
                                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Perché pubblicizzare il finanziamento?</a> <br/>  
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Perché pubblicizzare il finanziamento?</a> <br/>
                                            <strong>Dai una spinta alle vendite quando si annuncia il finanziamento.</strong> <br/> PayPal contribuisce a trasformare il browser in acquirenti con finanziamento
-                                            dal credito PayPal ®. I vostri clienti hanno più tempo per pagare, mentre vieni pagato – senza alcun costo aggiuntivo per te.                            
-                                            Utilizza il banner gratuito di PayPal che consente di pubblicizzare il finanziamento credito PayPal ® come opzione di pagamento quando i clienti fanno il checkout con PayPal.     
+                                            dal credito PayPal ®. I vostri clienti hanno più tempo per pagare, mentre vieni pagato – senza alcun costo aggiuntivo per te.
+                                            Utilizza il banner gratuito di PayPal che consente di pubblicizzare il finanziamento credito PayPal ® come opzione di pagamento quando i clienti fanno il checkout con PayPal.
                                             Il programma pubblicitario di PayPal ha dimostrato di generare ulteriori acquisti, nonché di aumentare le dimensioni medie di acquisto del consumatore del 15%
                                             o più. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank""> Vedi i dettagli</a>.",module,Magento_Paypal
 "Basic Settings - PayPal Payments Advanced","Impostazioni di base - PayPal pagamenti avanzati",module,Magento_Paypal
@@ -7365,10 +7373,10 @@ User,Utente,module,Magento_Paypal
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Perché pubblicizzare il finanziamento?</a> <br/>           
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Perché pubblicizzare il finanziamento?</a> <br/>
                                   <strong>Dai una spinta alle vendite quando si annuncia finanziamento.</strong> <br/> PayPal contribuisce a trasformare il browser in acquirenti con finanziamento
- dal credito PayPal ®. I vostri clienti hanno più tempo per pagare, mentre vieni pagato – senza alcun costo aggiuntivo per te.                  
-                          Utilizza il banner gratuito di PayPal che consente di pubblicizzare il finanziamento credito PayPal ® come opzione di pagamento quando i clienti fanno il checkout con PayPal.    
+ dal credito PayPal ®. I vostri clienti hanno più tempo per pagare, mentre vieni pagato – senza alcun costo aggiuntivo per te.
+                          Utilizza il banner gratuito di PayPal che consente di pubblicizzare il finanziamento credito PayPal ® come opzione di pagamento quando i clienti fanno il checkout con PayPal.
                                          Il programma pubblicitario di PayPal ha dimostrato di generare ulteriori acquisti, nonché di aumentare le dimensioni medie di acquisto del consumatore del 15%
  o più. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank""> Vedi i dettagli</a>.",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro Hosted Solution","Impostazioni di base - PayPal Payments Pro Hosted Solution",module,Magento_Paypal
@@ -7397,9 +7405,9 @@ User,Utente,module,Magento_Paypal
                                 Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Perché pubblicizzare finanziamento?</a> <br/>
-                                     <strong>Dai una spinta alle vendite  quando si annuncia finanziamento.</strong> <br/> PayPal contribuisce a trasformare il browser in acquirenti con finanziamento 
-                                     dal credito PayPal ®. I vostri clienti hanno più tempo per pagare, mentre vieni pagato – senza alcun costo aggiuntivo per te.        
-                                     Utilizza il banner gratuito di PayPal che consente di pubblicizzare il finanziamento credito PayPal ® come opzione di pagamento quando i clienti fanno il checkout con PayPal.     
+                                     <strong>Dai una spinta alle vendite  quando si annuncia finanziamento.</strong> <br/> PayPal contribuisce a trasformare il browser in acquirenti con finanziamento
+                                     dal credito PayPal ®. I vostri clienti hanno più tempo per pagare, mentre vieni pagato – senza alcun costo aggiuntivo per te.
+                                     Utilizza il banner gratuito di PayPal che consente di pubblicizzare il finanziamento credito PayPal ® come opzione di pagamento quando i clienti fanno il checkout con PayPal.
                                       Il programma pubblicitario di PayPal ha dimostrato di generare ulteriori acquisti, nonché di aumentare le dimensioni medie di acquisto del consumatore del 15%
                                       o più. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank""> Vedi i dettagli</a>.",module,Magento_Paypal
 "Not you?","Non sei tu?",module,Magento_Persistent
@@ -12119,8 +12127,9 @@ Conditions,Condizioni,module,Magento_Widget
 "We can't specify a product.","Non è possibile specificare un prodotto.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","In questo momento è impossibile aggiungere l'articolo alla lista dei desideri: %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","In questo momento è impossibile aggiungere l'articolo alla lista dei desideri.",module,Magento_Wishlist
-"You added %1 to your shopping cart.","Hai aggiunto %1 al tuo carrello.",module,Magento_Wishlist
+"You added %1 to your shopping cart.","Hai aggiunto %1 al tuo carrello."
 "This product(s) is out of stock.","Questi prodotti non sono disponibili.",module,Magento_Wishlist
+"You must login or register to add items to your wishlist.","Devi effettuare il login o la registrazione per aggiungere i prodotti nella tua wishlist",module,Magento_Wishlist
 "We can't add the item to the cart right now.","In questo momento è impossibile aggiungere l'articolo al carrello.",module,Magento_Wishlist
 "We can't load the Wish List item right now.","Non è possibile caricare l'elemento lista desideri in questo momento.",module,Magento_Wishlist
 "We can't configure the product right now.","Non è possibile configurare il prodotto in questo momento.",module,Magento_Wishlist
@@ -12137,6 +12146,7 @@ Conditions,Condizioni,module,Magento_Widget
 "We can't delete item from Wish List right now.","Non è possibile eliminare l'elemento dalla lista desideri in questo momento.",module,Magento_Wishlist
 "Can't save description %1","Impossibile salvare la descrizione %1",module,Magento_Wishlist
 "Can't update wish list","Non è possibile aggiornare la lista desideri",module,Magento_Wishlist
+"%1 has been removed from your Wish List.","%1 è stato rimosso dalla tua Wishlist.",module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 è stato aggiornato nella tua lista desideri.",module,Magento_Wishlist
 "We can't update your Wish List right now.","Non è possibile aggiornare la lista desideri in questo momento.",module,Magento_Wishlist
 "The requested Wish List doesn't exist.","La lista desideri richiesta non esiste.",module,Magento_Wishlist

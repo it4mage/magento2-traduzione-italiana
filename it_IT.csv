@@ -2315,7 +2315,7 @@
 "The customer is now assigned to Customer Group %s.","Il cliente è ora assegnato al gruppo clienti %s.","module","Magento_Customer"
 "Would you like to change the Customer Group for this order?","Vuoi cambiare il gruppo cliente per questo ordine?","module","Magento_Customer"
 "The VAT ID is valid.","La partita IVA è valida.","module","Magento_Customer"
-"The VAT ID entered (%s) is not a valid VAT ID.","La partita IVA inserita (%s) non è una partita IVA valida.","module","Magento_Customer"
+"The VAT ID entered (%s) is not a valid VAT ID.","La partita IVA inserita (%s) non è valida.","module","Magento_Customer"
 "The VAT ID is valid. The current Customer Group will be used.","La partita IVA è valida. Verrà utilizzato il gruppo cliente corrente.","module","Magento_Customer"
 "The VAT ID is valid but no Customer Group is assigned for it.","La partita IVA è valida, ma non vi è nessun gruppo cliente è associato.","module","Magento_Customer"
 "Based on the VAT ID, the customer belongs to the Customer Group %s.","In base alla partita IVA, il cliente appartiene al gruppo clienti %s.","module","Magento_Customer"

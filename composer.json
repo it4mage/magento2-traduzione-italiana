@@ -13,15 +13,8 @@
         {
             "name": "Antonio Carboni",
             "homepage": "https://github.com/antoniocarboni"
-        },
-        {
-            "name": "Magento2 traduzione italiana ",
-            "homepage": "https://crowdin.com/project/magento-2"
         }
     ],
-    "require": {
-        "magento/framework": "100.0.*|100.1.*|101.0.*|102.0.*|103.0.*"
-    },
     "type": "magento2-language",
     "autoload": {
         "files": [
